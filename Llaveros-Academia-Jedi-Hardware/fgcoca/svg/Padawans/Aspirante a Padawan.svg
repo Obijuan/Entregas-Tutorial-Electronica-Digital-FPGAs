@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="27.03mm"
+   height="42.8595688012mm"
+   viewBox="0 0 27.03 42.8595688012"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="PadawanA.svg">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1869"
+     inkscape:window-height="1056"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="6.1831388"
+     inkscape:cx="47.887796"
+     inkscape:cy="75.932308"
+     inkscape:window-x="51"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     id="Sketch014"
+     transform="translate(-78.235000,102.594569) scale(1,-1)"
+     style="fill:#ff9600;fill-opacity:1">
+    <path
+       id="Sketch014_w0000"
+       d="M 105.0 80.0 L 85.0 80.0 L 85.0 60.0 L 80.0 60.0 L 80.0 96.0 A 4.0 4.0 0 0 0 86.9282032303 100.0 L 105.0 100.0 L 105.0 80.0 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ff9600;fill-rule:evenodd;fill-opacity:1" />
+    <path
+       id="Sketch014_w0001"
+       d="M 85.0 95.0 L 100.0 95.0 L 100.0 85.0 L 85.0 85.0 L 85.0 95.0 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-rule:evenodd;fill-opacity:1" />
+    <circle
+       cx="83.4641016151"
+       cy="98.0"
+       r="2.0"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1"
+       id="circle7" />
+    <path
+       id="Sketch014_w0003"
+       d="M 78.5 70.3811978465 L 86.5 75.0 L 86.5 72.0 L 78.5 67.3811978465 L 78.5 70.3811978465 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#ff9600;fill-rule:evenodd;fill-opacity:1" />
+    <title
+       id="title10">SBase-aspirante-padawan</title>
+  </g>
+</svg>
