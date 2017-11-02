@@ -1,6 +1,6 @@
 # Logotipo/Insignias de la Academia Jedi de FPGA libres del Maestro Obijuan
 
-Se incluyen los ficheros en formato PNG de los tres cursos de la academia
+Se incluyen el fichero original de Gimp, por si se quiere modificar/adaptar/mejorar y los ficheros en formato PNG de los tres cursos de la academia
 
 
 
