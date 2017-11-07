@@ -152,8 +152,8 @@
             "virtual": true
           },
           "position": {
-            "x": 1192,
-            "y": 16
+            "x": 952,
+            "y": 104
           }
         },
         {
@@ -178,12 +178,44 @@
             }
           },
           "position": {
-            "x": 240,
-            "y": -200
+            "x": 216,
+            "y": -24
           },
           "size": {
-            "width": 816,
-            "height": 496
+            "width": 592,
+            "height": 320
+          }
+        },
+        {
+          "id": "684eb971-8f1c-4c6f-beeb-e699a099ba11",
+          "type": "basic.info",
+          "data": {
+            "info": "Contador conectado a los LEDs.\r\nLos circuitos secuenciales, a diferencia de los combinacionales, almacenan información.\r\nEl contador almacena un número que se incrementa con cada tic del reloj.\r\nNuestro componente se actualiza en cada flanco de subida del reloj, y su salida data es de 26 bits.\r\nLa señal de reloj de la placa iCEstick es de 12Mhz.\r\nSi hacemos un contador de sólo 4 bits y le conectamos a su entrada clk esta señal de 12Mhz,\r\nel resultado será que se incrementará tan rápido que siempre veremos los leds encendidos.\r\nPor ello utilizaremos un contador de 26 bits y usaremos los 4 más significativos para mostrarlos\r\nen los leds.",
+            "readonly": false
+          },
+          "position": {
+            "x": 88,
+            "y": -336
+          },
+          "size": {
+            "width": 880,
+            "height": 256
+          }
+        },
+        {
+          "id": "ae86309c-f33a-421b-9143-6887af3680f9",
+          "type": "basic.info",
+          "data": {
+            "info": "<img src=\"https://raw.githubusercontent.com/Obijuan/open-fpga-verilog-tutorial/master/tutorial/ICESTICK/T04-counter/images/counter-1.png\">",
+            "readonly": true
+          },
+          "position": {
+            "x": 992,
+            "y": -336
+          },
+          "size": {
+            "width": 192,
+            "height": 128
           }
         }
       ],
@@ -203,8 +235,8 @@
     },
     "state": {
       "pan": {
-        "x": 88,
-        "y": 271.5
+        "x": 68,
+        "y": 343.5
       },
       "zoom": 1
     }

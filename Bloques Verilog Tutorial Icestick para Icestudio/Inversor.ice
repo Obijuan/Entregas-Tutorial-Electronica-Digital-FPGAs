@@ -27,8 +27,8 @@
             "clock": false
           },
           "position": {
-            "x": 232,
-            "y": 88
+            "x": 72,
+            "y": 224
           }
         },
         {
@@ -46,8 +46,8 @@
             "virtual": true
           },
           "position": {
-            "x": 1112,
-            "y": 88
+            "x": 928,
+            "y": 224
           }
         },
         {
@@ -70,12 +70,28 @@
             }
           },
           "position": {
-            "x": 432,
-            "y": 0
+            "x": 264,
+            "y": 152.00000000000045
           },
           "size": {
-            "width": 544,
-            "height": 240
+            "width": 576,
+            "height": 208
+          }
+        },
+        {
+          "id": "fc551b03-1112-45e1-94c5-e3d41148b304",
+          "type": "basic.info",
+          "data": {
+            "info": "circuito combinacional: una puerta inversora (puerta NOT).\r\n\r\nLos circuitos combinacionales realizan operaciones con los bits de entrada y los sacan por las salidas.\r\n\r\nNo almacenan bits, sólo los transforman. El más básico de todos es una puerta NOT, que tiene un bit de entrada y otro de salida.\r\n\r\nPor la salida siempre saca el inverso del bit de la entrada: El \"1\" lo transforma a \"0\" y el \"0\" a \"1\".\r\n\r\n<img src=\"https://raw.githubusercontent.com/Obijuan/open-fpga-verilog-tutorial/master/tutorial/ICESTICK/T03-inv/images/inv-1.png\">\r\n\r\nNuestro componente lo llamaremos INV. Su entrada es A y su salida B",
+            "readonly": true
+          },
+          "position": {
+            "x": 256,
+            "y": -240
+          },
+          "size": {
+            "width": 1136,
+            "height": 272
           }
         }
       ],
@@ -104,10 +120,10 @@
     },
     "state": {
       "pan": {
-        "x": -158.7213,
-        "y": 179.7131
+        "x": 88,
+        "y": 271.5
       },
-      "zoom": 0.8566
+      "zoom": 1
     }
   },
   "dependencies": {}
