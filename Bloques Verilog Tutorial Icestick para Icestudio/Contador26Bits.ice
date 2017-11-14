@@ -157,10 +157,30 @@
           }
         },
         {
+          "id": "ee819db5-c2f0-43c2-a11a-2cb0e5d44c58",
+          "type": "basic.input",
+          "data": {
+            "name": "clk",
+            "pins": [
+              {
+                "index": "0",
+                "name": "",
+                "value": "0"
+              }
+            ],
+            "virtual": true,
+            "clock": true
+          },
+          "position": {
+            "x": 48,
+            "y": 104
+          }
+        },
+        {
           "id": "839d7f02-ffd6-48c3-a3fe-abb08cfe0ab7",
           "type": "basic.code",
           "data": {
-            "code": "//-----------------------------------\r\n//-- Entrada: señal de reloj\r\n//-- Salida: contador de 26 bits\r\n//-----------------------------------\r\n//module counter(input clk, output [25:0] data);\r\nwire clk;\r\n    \r\n//-- La salida es un registro de 26 bits, inicializado a 0\r\nreg [25:0] data = 0;\r\n    \r\n//-- Sensible al flanco de subida\r\nalways @(posedge clk) begin\r\n  //-- Incrementar el registro\r\n  data <= data + 1;\r\nend\r\n//endmodule",
+            "code": "//-----------------------------------\r\n//-- Entrada: señal de reloj\r\n//-- Salida: contador de 26 bits\r\n//-----------------------------------\r\n//module counter(input clk, output [25:0] data);\r\nwire clk;\r\n    \r\n//-- La salida es un registro de 26 bits, inicializado a 0\r\nreg [25:0] data = 0;\r\n    \r\n//-- Sensible al flanco de subida\r\nalways @(posedge clk) begin\r\n  //-- Incrementar el registro\r\n  data <= data + 1;\r\nend",
             "params": [],
             "ports": {
               "in": [
@@ -191,15 +211,15 @@
           "type": "basic.info",
           "data": {
             "info": "Contador conectado a los LEDs.\r\nLos circuitos secuenciales, a diferencia de los combinacionales, almacenan información.\r\nEl contador almacena un número que se incrementa con cada tic del reloj.\r\nNuestro componente se actualiza en cada flanco de subida del reloj, y su salida data es de 26 bits.\r\nLa señal de reloj de la placa iCEstick es de 12Mhz.\r\nSi hacemos un contador de sólo 4 bits y le conectamos a su entrada clk esta señal de 12Mhz,\r\nel resultado será que se incrementará tan rápido que siempre veremos los leds encendidos.\r\nPor ello utilizaremos un contador de 26 bits y usaremos los 4 más significativos para mostrarlos\r\nen los leds.",
-            "readonly": false
+            "readonly": true
           },
           "position": {
-            "x": 88,
-            "y": -336
+            "x": 200,
+            "y": -288
           },
           "size": {
-            "width": 880,
-            "height": 256
+            "width": 864,
+            "height": 240
           }
         },
         {
@@ -210,8 +230,8 @@
             "readonly": true
           },
           "position": {
-            "x": 992,
-            "y": -336
+            "x": -96,
+            "y": -304
           },
           "size": {
             "width": 192,
@@ -230,15 +250,25 @@
             "port": "in"
           },
           "size": 26
+        },
+        {
+          "source": {
+            "block": "ee819db5-c2f0-43c2-a11a-2cb0e5d44c58",
+            "port": "out"
+          },
+          "target": {
+            "block": "839d7f02-ffd6-48c3-a3fe-abb08cfe0ab7",
+            "port": "clk"
+          }
         }
       ]
     },
     "state": {
       "pan": {
-        "x": 68,
-        "y": 343.5
+        "x": 112.8276,
+        "y": 285.5345
       },
-      "zoom": 1
+      "zoom": 0.7586
     }
   },
   "dependencies": {}
