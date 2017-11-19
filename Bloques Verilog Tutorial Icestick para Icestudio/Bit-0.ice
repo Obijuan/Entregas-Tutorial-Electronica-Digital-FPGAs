@@ -5,7 +5,7 @@
     "version": "1.0",
     "description": "Salida Bit a 1",
     "author": "Juan Daniel Gomez",
-    "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%2223.633%22%20height=%2248.633%22%20viewBox=%220%200%206.2528486%2012.867432%22%3E%3Ctext%20style=%22line-height:1.25%22%20x=%2240.065%22%20y=%22117.083%22%20font-weight=%22400%22%20font-size=%2210.583%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22green%22%20stroke-width=%22.265%22%20transform=%22translate(-42.012%20-104.216)%22%3E%3Ctspan%20x=%2240.065%22%20y=%22117.083%22%20style=%22-inkscape-font-specification:Tahoma%22%20font-size=%2217.639%22%20font-family=%22Tahoma%22%3E1%3C/tspan%3E%3C/text%3E%3C/svg%3E"
+    "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%2230.99%22%20height=%2250.456%22%20viewBox=%220%200%208.1993274%2013.349746%22%3E%3Ctext%20style=%22line-height:1.25%22%20x=%2240.065%22%20y=%22117.083%22%20font-weight=%22400%22%20font-size=%2210.583%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22green%22%20stroke-width=%22.265%22%20transform=%22translate(-40.78%20-104)%22%3E%3Ctspan%20x=%2240.065%22%20y=%22117.083%22%20style=%22-inkscape-font-specification:Tahoma%22%20font-size=%2217.639%22%20font-family=%22Tahoma%22%20fill=%22red%22%3E0%3C/tspan%3E%3C/text%3E%3C/svg%3E"
   },
   "design": {
     "board": "icezum",
@@ -26,15 +26,15 @@
             "virtual": true
           },
           "position": {
-            "x": 200,
-            "y": 248
+            "x": 224,
+            "y": 96
           }
         },
         {
           "id": "1d372f7e-b5e6-4a44-be18-5bab581ed283",
           "type": "basic.code",
           "data": {
-            "code": "//module setbit(output A);\r\nwire A;\r\nassign A = 1;\r\n",
+            "code": "//module setbit(output A);\r\nwire A;\r\nassign A = 0;\r\n",
             "params": [],
             "ports": {
               "in": [],
@@ -46,8 +46,8 @@
             }
           },
           "position": {
-            "x": -232,
-            "y": 216
+            "x": -208,
+            "y": 64
           },
           "size": {
             "width": 336,
@@ -58,11 +58,11 @@
           "id": "1d4597c8-8e98-4956-9759-4bfbf5ee49c4",
           "type": "basic.info",
           "data": {
-            "info": "El circuito digital más sencillo es simplemente un cable que está conectado\na un nivel lógico conocido, por ejemplo 1.\nDe esta forma al conectar un led se iluminará (1) o se apagará (0)\n\n<img src=\"https://raw.githubusercontent.com/Obijuan/open-fpga-verilog-tutorial/master/tutorial/ICESTICK/T01-setbit/images/setbit-1.png\">\n\nLa salida de este circuito la hemos denominado A.\n\nEl código verilog que implementa este circuito \"hola mundo\"\n",
+            "info": "El circuito digital más sencillo es simplemente un cable que está conectado\na un nivel lógico conocido, por ejemplo 0.\n\nDe esta forma al conectar un led se apagará (0)\n\nLa salida de este circuito la hemos denominado A.\n",
             "readonly": true
           },
           "position": {
-            "x": -240,
+            "x": -248,
             "y": -160
           },
           "size": {
@@ -87,7 +87,7 @@
     },
     "state": {
       "pan": {
-        "x": 387.619,
+        "x": 365.619,
         "y": 193.9683
       },
       "zoom": 0.9623
