@@ -5,7 +5,7 @@
     "version": "1.0",
     "description": "Salida Bit a 1",
     "author": "Juan Daniel Gomez",
-    "image": ""
+    "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%2223.633%22%20height=%2248.633%22%20viewBox=%220%200%206.2528486%2012.867432%22%3E%3Ctext%20style=%22line-height:1.25%22%20x=%2240.065%22%20y=%22117.083%22%20font-weight=%22400%22%20font-size=%2210.583%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22green%22%20stroke-width=%22.265%22%20transform=%22translate(-42.012%20-104.216)%22%3E%3Ctspan%20x=%2240.065%22%20y=%22117.083%22%20style=%22-inkscape-font-specification:Tahoma%22%20font-size=%2217.639%22%20font-family=%22Tahoma%22%3E1%3C/tspan%3E%3C/text%3E%3C/svg%3E"
   },
   "design": {
     "board": "icezum",
@@ -34,7 +34,7 @@
           "id": "1d372f7e-b5e6-4a44-be18-5bab581ed283",
           "type": "basic.code",
           "data": {
-            "code": "//module setbit(output A);\r\nwire A;\r\nassign A = 1;",
+            "code": "//module setbit(output A);\r\nwire A;\r\nassign A = 1;\r\n",
             "params": [],
             "ports": {
               "in": [],
@@ -87,10 +87,10 @@
     },
     "state": {
       "pan": {
-        "x": 620,
-        "y": 183.5
+        "x": 387.619,
+        "y": 193.9683
       },
-      "zoom": 1
+      "zoom": 0.9623
     }
   },
   "dependencies": {}
