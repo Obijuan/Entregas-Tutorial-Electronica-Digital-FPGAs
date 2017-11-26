@@ -5,7 +5,7 @@
     "version": "1.0",
     "description": "Inversor",
     "author": "Juan Daniel Gomez",
-    "image": ""
+    "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%2296.523%22%20height=%2280.273%22%20viewBox=%220%200%2025.538491%2021.239014%22%3E%3Ctext%20style=%22line-height:1.25%22%20x=%2231.693%22%20y=%2282.605%22%20font-weight=%22400%22%20font-size=%2210.583%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22green%22%20stroke-width=%22.265%22%20transform=%22translate(-32.401%20-74.756)%22%3E%3Ctspan%20x=%2231.693%22%20y=%2282.605%22%3E0-&gt;1%3C/tspan%3E%3Ctspan%20x=%2231.693%22%20y=%2295.834%22%3E1-&gt;0%3C/tspan%3E%3C/text%3E%3C/svg%3E"
   },
   "design": {
     "board": "icezum",
@@ -82,16 +82,32 @@
           "id": "fc551b03-1112-45e1-94c5-e3d41148b304",
           "type": "basic.info",
           "data": {
-            "info": "circuito combinacional: una puerta inversora (puerta NOT).\r\n\r\nLos circuitos combinacionales realizan operaciones con los bits de entrada y los sacan por las salidas.\r\n\r\nNo almacenan bits, sólo los transforman. El más básico de todos es una puerta NOT, que tiene un bit de entrada y otro de salida.\r\n\r\nPor la salida siempre saca el inverso del bit de la entrada: El \"1\" lo transforma a \"0\" y el \"0\" a \"1\".\r\n\r\n<img src=\"https://raw.githubusercontent.com/Obijuan/open-fpga-verilog-tutorial/master/tutorial/ICESTICK/T03-inv/images/inv-1.png\">\r\n\r\nNuestro componente lo llamaremos INV. Su entrada es A y su salida B",
+            "info": "<B><U><BIG>Puerta Inversora (puerta NOT)</BIG></U></B>.\r\n\r\nLos circuitos combinacionales realizan operaciones con los\r\nbits de entrada y los sacan por las salidas.\r\n\r\nNo almacenan bits, sólo los transforman. El más básico de todos es\r\nuna puerta NOT, que tiene un bit de entrada y otro de salida.\r\n\r\nPor la salida siempre saca el inverso del bit de la entrada:\r\nEl \"1\" lo transforma a \"0\" y el \"0\" a \"1\".\r\n\r\nNuestro componente lo llamaremos INV. Su entrada es A y su salida B",
             "readonly": true
           },
           "position": {
-            "x": 256,
-            "y": -240
+            "x": 264,
+            "y": -136
           },
           "size": {
-            "width": 1136,
-            "height": 272
+            "width": 560,
+            "height": 224
+          }
+        },
+        {
+          "id": "c8a125f6-861e-43b9-9357-90972b0a3a0b",
+          "type": "basic.info",
+          "data": {
+            "info": "<img src=\"https://raw.githubusercontent.com/Obijuan/open-fpga-verilog-tutorial/master/tutorial/ICESTICK/T03-inv/images/inv-1.png\">",
+            "readonly": true
+          },
+          "position": {
+            "x": -24,
+            "y": -128
+          },
+          "size": {
+            "width": 192,
+            "height": 128
           }
         }
       ],
@@ -120,8 +136,8 @@
     },
     "state": {
       "pan": {
-        "x": 88,
-        "y": 271.5
+        "x": 308,
+        "y": 279.5
       },
       "zoom": 1
     }

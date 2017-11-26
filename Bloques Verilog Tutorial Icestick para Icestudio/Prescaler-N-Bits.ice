@@ -82,16 +82,16 @@
           "id": "cc01d14f-e416-4469-a6c7-72181bd085c5",
           "type": "basic.info",
           "data": {
-            "info": "<B><font color=\"red\">Los prescalers sirven para ralentizar las señales de reloj.</B></font>\nPor la entrada entra una señal de reloj de frecuencia f y\npor la salida se obtiene una de frecuencia menor.\n\nHaremos un prescaler de 22 bits para hacer parpadear un led\na diferentes frecuencias",
+            "info": "<B><font color=\"red\">Los prescalers sirven para ralentizar las señales de reloj.</B></font>\nPor la entrada entra una señal de reloj de frecuencia f y\npor la salida se obtiene una de frecuencia menor.\n\nHaremos un prescaler de 22 bits para hacer parpadear un led\na diferentes frecuencias\n\n<u>La Salida mayor peso es la que se saca como señal de salida.</u>",
             "readonly": true
           },
           "position": {
             "x": -104,
-            "y": -336
+            "y": -344
           },
           "size": {
-            "width": 528,
-            "height": 128
+            "width": 576,
+            "height": 208
           }
         },
         {
@@ -136,10 +136,10 @@
     },
     "state": {
       "pan": {
-        "x": 425.2878,
-        "y": 388.4944
+        "x": 170.159,
+        "y": 311.409
       },
-      "zoom": 0.902
+      "zoom": 0.7967
     }
   },
   "dependencies": {}
