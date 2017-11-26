@@ -19,8 +19,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "LED0",
-                "value": "95"
+                "name": "LED3",
+                "value": "98"
               }
             ],
             "virtual": false
@@ -38,8 +38,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "LED7",
-                "value": "104"
+                "name": "LED4",
+                "value": "99"
               }
             ],
             "virtual": false
@@ -57,8 +57,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "LED1",
-                "value": "96"
+                "name": "LED2",
+                "value": "97"
               }
             ],
             "virtual": false
@@ -76,8 +76,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "LED6",
-                "value": "102"
+                "name": "LED5",
+                "value": "101"
               }
             ],
             "virtual": false
@@ -95,8 +95,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "LED2",
-                "value": "97"
+                "name": "LED1",
+                "value": "96"
               }
             ],
             "virtual": false
@@ -114,8 +114,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "LED5",
-                "value": "101"
+                "name": "LED6",
+                "value": "102"
               }
             ],
             "virtual": false
@@ -133,15 +133,15 @@
             "pins": [
               {
                 "index": "0",
-                "name": "LED3",
-                "value": "98"
+                "name": "LED0",
+                "value": "95"
               }
             ],
             "virtual": false
           },
           "position": {
-            "x": 496,
-            "y": 56
+            "x": 408,
+            "y": 48
           }
         },
         {
@@ -152,15 +152,15 @@
             "pins": [
               {
                 "index": "0",
-                "name": "LED4",
-                "value": "99"
+                "name": "LED7",
+                "value": "104"
               }
             ],
             "virtual": false
           },
           "position": {
-            "x": 648,
-            "y": 56
+            "x": 536,
+            "y": 48
           }
         },
         {
@@ -240,14 +240,14 @@
           },
           "size": {
             "width": 544,
-            "height": 96
+            "height": 112
           }
         },
         {
           "id": "f6d1c38c-f827-4337-a10d-57e3e2ed1e17",
           "type": "basic.info",
           "data": {
-            "info": "<b>Puesto que no exíste el corazón a 8Hz</b>\nSe utiliza el mismo código que en los corazones, pero con la contatante M = 1500000.",
+            "info": "<u><b>Crear un corazón a 8Hz</b></u>\nSe utiliza el mismo código que en los corazones, pero con la contatante <b>M</b> = 1500000.\nEs devido a que IceZUM utiliza un reloj a 12MHz.  <i>12.000.000 Hz/1.500.000 = 8 Hz</i>",
             "readonly": true
           },
           "position": {
@@ -351,10 +351,10 @@
     },
     "state": {
       "pan": {
-        "x": 279.9211,
-        "y": 311.4572
+        "x": 339.3333,
+        "y": 317.5
       },
-      "zoom": 0.8266
+      "zoom": 0.7708
     }
   },
   "dependencies": {
