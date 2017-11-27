@@ -111,7 +111,7 @@
           "id": "5798dbc0-854d-4e1a-bf46-50fb880da44d",
           "type": "basic.code",
           "data": {
-            "code": "//-- mpres.v\r\n//module mpres(input clk_in, output D1, output D2, output D3, output D4);\r\n// @include prescaler.v\r\n\r\n\r\n\r\nwire clk_in;\r\nwire D1;\r\nwire D2;\r\nwire D3;\r\nwire D4;\r\n    \r\n//-- Parametros del componente\r\n//-- Bits para los diferentes prescalers\r\n//-- Cambiar estos valores segun la secuencia a sacar por los leds\r\nparameter N0 = 21;  //-- Prescaler base\r\nparameter N1 = 1;\r\nparameter N2 = 2;\r\nparameter N3 = 1;\r\nparameter N4 = 2;\r\n    \r\n//-- Cable con señal de reloj base: la salida del prescaler 0\r\nwire clk_base;\r\n    \r\n//-- Prescaler base. Conectado a la señal de reloj de entrada\r\n//-- Su salida es por clk_base\r\n//-- Tiene N0 bits de tamaño\r\nprescaler #(.N(N0))  \r\n  Pres0(\r\n   .clk_in(clk_in),\r\n   .clk_out(clk_base)\r\n  );\r\n    \r\n//-- Canal 1: Prescaner de N1 bits, conectado a led 1\r\nprescaler #(.N(N1))\r\n  Pres1(\r\n    .clk_in(clk_base),\r\n    .clk_out(D1)\r\n  );\r\n    \r\n//-- Canal 2: Prescaler de N2 bits, conectado a led 2\r\nprescaler #(.N(N2))\r\n  Pres2(\r\n    .clk_in(clk_base),\r\n    .clk_out(D2)\r\n  );\r\n    \r\n//-- Canal 3: Prescaler de N3 bits, conectado a led 3\r\nprescaler #(.N(N3))\r\n  Pres3(\r\n    .clk_in(clk_base),\r\n    .clk_out(D3)\r\n  );\r\n    \r\n//-- Canal 4: Prescaler de N4 bits, conectado a led 4\r\nprescaler #(.N(N4))\r\n  Pres4(\r\n    .clk_in(clk_base),\r\n    .clk_out(D4)\r\n  );\r\n    \r\n//endmodule",
+            "code": "//-- mpres.v\r\n//module mpres(input clk_in, output D1, output D2, output D3, output D4);\r\n// @include prescaler.v\r\n\r\nwire clk_in;\r\nwire D1;\r\nwire D2;\r\nwire D3;\r\nwire D4;\r\n    \r\n//-- Parametros del componente\r\n//-- Bits para los diferentes prescalers\r\n//-- Cambiar estos valores segun la secuencia a sacar por los leds\r\nparameter N0 = 21;  //-- Prescaler base\r\nparameter N1 = 1;\r\nparameter N2 = 2;\r\nparameter N3 = 1;\r\nparameter N4 = 2;\r\n    \r\n//-- Cable con señal de reloj base: la salida del prescaler 0\r\nwire clk_base;\r\n    \r\n//-- Prescaler base. Conectado a la señal de reloj de entrada\r\n//-- Su salida es por clk_base\r\n//-- Tiene N0 bits de tamaño\r\nprescaler #(.N(N0))  \r\n  Pres0(\r\n   .clk_in(clk_in),\r\n   .clk_out(clk_base)\r\n  );\r\n    \r\n//-- Canal 1: Prescaner de N1 bits, conectado a led 1\r\nprescaler #(.N(N1))\r\n  Pres1(\r\n    .clk_in(clk_base),\r\n    .clk_out(D1)\r\n  );\r\n    \r\n//-- Canal 2: Prescaler de N2 bits, conectado a led 2\r\nprescaler #(.N(N2))\r\n  Pres2(\r\n    .clk_in(clk_base),\r\n    .clk_out(D2)\r\n  );\r\n    \r\n//-- Canal 3: Prescaler de N3 bits, conectado a led 3\r\nprescaler #(.N(N3))\r\n  Pres3(\r\n    .clk_in(clk_base),\r\n    .clk_out(D3)\r\n  );\r\n    \r\n//-- Canal 4: Prescaler de N4 bits, conectado a led 4\r\nprescaler #(.N(N4))\r\n  Pres4(\r\n    .clk_in(clk_base),\r\n    .clk_out(D4)\r\n  );\r\n",
             "params": [],
             "ports": {
               "in": [
@@ -200,10 +200,10 @@
     },
     "state": {
       "pan": {
-        "x": 83.8412,
-        "y": 291.0731
+        "x": 484.3704,
+        "y": 350.3626
       },
-      "zoom": 0.9402
+      "zoom": 1
     }
   },
   "dependencies": {}
