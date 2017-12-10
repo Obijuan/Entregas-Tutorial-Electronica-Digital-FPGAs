@@ -58,7 +58,7 @@
           "id": "1d4597c8-8e98-4956-9759-4bfbf5ee49c4",
           "type": "basic.info",
           "data": {
-            "info": "El circuito digital más sencillo es simplemente un cable que está conectado\na un nivel lógico conocido, por ejemplo 0.\n\nDe esta forma al conectar un led se apagará (0)\n\nLa salida de este circuito la hemos denominado A.\n",
+            "info": "<B>El circuito digital más sencillo es simplemente un cable que está conectado\na un nivel lógico conocido</B>, por ejemplo 0.\n\nDe esta forma al conectar un led se apagará (0)\n\nLa salida de este circuito la hemos denominado A.\n",
             "readonly": true
           },
           "position": {
@@ -87,10 +87,10 @@
     },
     "state": {
       "pan": {
-        "x": 365.619,
-        "y": 193.9683
+        "x": 370,
+        "y": 266.5
       },
-      "zoom": 0.9623
+      "zoom": 1
     }
   },
   "dependencies": {}
