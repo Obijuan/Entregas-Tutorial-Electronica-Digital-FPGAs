@@ -26,8 +26,8 @@
             "virtual": false
           },
           "position": {
-            "x": 704,
-            "y": 104
+            "x": 760,
+            "y": 152
           }
         },
         {
@@ -45,8 +45,8 @@
             "virtual": false
           },
           "position": {
-            "x": 704,
-            "y": 184
+            "x": 760,
+            "y": 232
           }
         },
         {
@@ -64,8 +64,8 @@
             "virtual": false
           },
           "position": {
-            "x": 704,
-            "y": 264
+            "x": 760,
+            "y": 312
           }
         },
         {
@@ -83,8 +83,8 @@
             "virtual": false
           },
           "position": {
-            "x": 704,
-            "y": 344
+            "x": 760,
+            "y": 392
           }
         },
         {
@@ -102,16 +102,16 @@
             "virtual": false
           },
           "position": {
-            "x": 704,
-            "y": 424
+            "x": 760,
+            "y": 472
           }
         },
         {
           "id": "8a80e2f5-6cfd-4e4a-adfc-384e2eb8a4e0",
           "type": "3e6c249e205080168c1bf4ee8dbc33b50653d5f4",
           "position": {
-            "x": 280,
-            "y": 344
+            "x": 336,
+            "y": 392
           },
           "size": {
             "width": 96,
@@ -122,12 +122,60 @@
           "id": "5cc078ce-e8e6-480d-b145-adcc60d48a63",
           "type": "862d2a36c72ddee13ea44bf906fe1b60efa90941",
           "position": {
-            "x": 280,
-            "y": 144
+            "x": 336,
+            "y": 192
           },
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "2aa1f246-aa0a-4e7b-9e50-a6348c26431d",
+          "type": "basic.info",
+          "data": {
+            "info": "Encender <b>tres de los cinco</b> LED.",
+            "readonly": true
+          },
+          "position": {
+            "x": 456,
+            "y": 104
+          },
+          "size": {
+            "width": 272,
+            "height": 48
+          }
+        },
+        {
+          "id": "508da9f2-e2b9-48f6-9894-2b80fdc1b655",
+          "type": "basic.info",
+          "data": {
+            "info": "Dejamos apagados los <b>pares</b>.",
+            "readonly": true
+          },
+          "position": {
+            "x": 472,
+            "y": 232
+          },
+          "size": {
+            "width": 224,
+            "height": 48
+          }
+        },
+        {
+          "id": "bf07ac36-7e0e-4acb-b1aa-96fb2ab63699",
+          "type": "basic.info",
+          "data": {
+            "info": "Encendemos los <b>impares</b>.",
+            "readonly": true
+          },
+          "position": {
+            "x": 480,
+            "y": 432
+          },
+          "size": {
+            "width": 240,
+            "height": 32
           }
         }
       ],
@@ -140,7 +188,13 @@
           "target": {
             "block": "8f15ac8d-bcab-4ccc-982d-f1e4a24e46ba",
             "port": "in"
-          }
+          },
+          "vertices": [
+            {
+              "x": 736,
+              "y": 200
+            }
+          ]
         },
         {
           "source": {
@@ -186,10 +240,10 @@
     },
     "state": {
       "pan": {
-        "x": 0,
-        "y": 0
+        "x": 16.6234,
+        "y": 21.6039
       },
-      "zoom": 1
+      "zoom": 0.974
     }
   },
   "dependencies": {
