@@ -31,3 +31,5 @@ segundo pero alternativamente con los leds 0 y 1
 
 ***
 
+<blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">¡Tutorial 7!<br>?? Ejercicios propuestos <a href="https://twitter.com/hashtag/FPGAwars?src=hash&amp;ref_src=twsrc%5Etfw">#FPGAwars</a><a href="https://twitter.com/Obijuan_cube?ref_src=twsrc%5Etfw">@Obijuan_cube</a> <a href="https://t.co/Wi6IYMD940">pic.twitter.com/Wi6IYMD940</a></p>&mdash; Migue (@migueabellan) <a href="https://twitter.com/migueabellan/status/955025065430614016?ref_src=twsrc%5Etfw">21 de enero de 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
