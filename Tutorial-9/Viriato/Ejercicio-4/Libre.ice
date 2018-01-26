@@ -39,8 +39,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "LED1",
-                "value": "96"
+                "name": "LED0",
+                "value": "95"
               }
             ],
             "virtual": false
@@ -58,8 +58,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "LED3",
-                "value": "98"
+                "name": "LED1",
+                "value": "96"
               }
             ],
             "virtual": false
@@ -77,8 +77,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "LED5",
-                "value": "101"
+                "name": "LED2",
+                "value": "97"
               }
             ],
             "virtual": false
@@ -96,8 +96,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D12",
-                "value": "143"
+                "name": "GP0",
+                "value": "37"
               }
             ],
             "virtual": false
@@ -115,8 +115,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "LED7",
-                "value": "104"
+                "name": "LED3",
+                "value": "98"
               }
             ],
             "virtual": false
@@ -134,8 +134,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "LED0",
-                "value": "95"
+                "name": "LED4",
+                "value": "99"
               }
             ],
             "virtual": false
@@ -153,8 +153,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D13",
-                "value": "144"
+                "name": "GP7",
+                "value": "50"
               }
             ],
             "virtual": false
@@ -172,8 +172,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "LED2",
-                "value": "97"
+                "name": "LED5",
+                "value": "101"
               }
             ],
             "virtual": false
@@ -191,8 +191,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "LED4",
-                "value": "99"
+                "name": "LED6",
+                "value": "102"
               }
             ],
             "virtual": false
@@ -210,8 +210,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "LED6",
-                "value": "102"
+                "name": "LED7",
+                "value": "104"
               }
             ],
             "virtual": false
@@ -361,10 +361,10 @@
     },
     "state": {
       "pan": {
-        "x": 84,
-        "y": 41.5
+        "x": 184.7432,
+        "y": 55.4324
       },
-      "zoom": 1
+      "zoom": 0.9645
     }
   },
   "dependencies": {
