@@ -19,8 +19,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "",
-                "value": "0"
+                "name": "D0",
+                "value": "119"
               }
             ],
             "virtual": false
@@ -48,6 +48,25 @@
           "position": {
             "x": 304,
             "y": 256
+          }
+        },
+        {
+          "id": "cde952c0-f818-406c-9b1b-c2c6544433ec",
+          "type": "basic.output",
+          "data": {
+            "name": "LED",
+            "pins": [
+              {
+                "index": "0",
+                "name": "LED4",
+                "value": "99"
+              }
+            ],
+            "virtual": false
+          },
+          "position": {
+            "x": 808,
+            "y": 344
           }
         },
         {
@@ -83,13 +102,23 @@
             "block": "8ba06a7a-d85a-449f-a94a-c93512c05d8d",
             "port": "in"
           }
+        },
+        {
+          "source": {
+            "block": "1d160d2e-cabf-40b8-a9e9-010ce3f34894",
+            "port": "52f2f09c-75c4-49b9-bb9c-20000df9e5cc"
+          },
+          "target": {
+            "block": "cde952c0-f818-406c-9b1b-c2c6544433ec",
+            "port": "in"
+          }
         }
       ]
     },
     "state": {
       "pan": {
-        "x": 0,
-        "y": 0
+        "x": 36,
+        "y": 45.5
       },
       "zoom": 1
     }
