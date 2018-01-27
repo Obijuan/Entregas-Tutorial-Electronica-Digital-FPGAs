@@ -27,7 +27,7 @@
           },
           "position": {
             "x": 832,
-            "y": 32
+            "y": 8
           }
         },
         {
@@ -46,7 +46,7 @@
           },
           "position": {
             "x": 832,
-            "y": 112
+            "y": 88
           }
         },
         {
@@ -65,7 +65,7 @@
           },
           "position": {
             "x": 832,
-            "y": 208
+            "y": 240
           }
         },
         {
@@ -84,7 +84,7 @@
           },
           "position": {
             "x": 832,
-            "y": 304
+            "y": 336
           }
         },
         {
@@ -103,7 +103,7 @@
           },
           "position": {
             "x": 832,
-            "y": 384
+            "y": 416
           }
         },
         {
@@ -122,7 +122,7 @@
           },
           "position": {
             "x": 832,
-            "y": 464
+            "y": 496
           }
         },
         {
@@ -130,7 +130,7 @@
           "type": "8b3f3c9399e26875a53540e6d8b502e3e68a45b9",
           "position": {
             "x": 688,
-            "y": 208
+            "y": 240
           },
           "size": {
             "width": 96,
@@ -142,7 +142,7 @@
           "type": "74551430394443bae613ae05760e5b97575ad9a1",
           "position": {
             "x": 224,
-            "y": 304
+            "y": 336
           },
           "size": {
             "width": 96,
@@ -154,7 +154,7 @@
           "type": "7f3e9f0a05c929c3761852e259027fbe8e977795",
           "position": {
             "x": 576,
-            "y": 424
+            "y": 456
           },
           "size": {
             "width": 96,
@@ -166,7 +166,7 @@
           "type": "21c67e031dcd40b36a6cf255296e79d81519f886",
           "position": {
             "x": 384,
-            "y": 240
+            "y": 272
           },
           "size": {
             "width": 96,
@@ -178,7 +178,7 @@
           "type": "21c67e031dcd40b36a6cf255296e79d81519f886",
           "position": {
             "x": 536,
-            "y": 224
+            "y": 256
           },
           "size": {
             "width": 96,
@@ -190,11 +190,43 @@
           "type": "9bbb1e27bcd75f4bb5cf08aed92224bf37097c3d",
           "position": {
             "x": 224,
-            "y": 72
+            "y": 48
           },
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "eb40e825-dd73-489c-b3db-251cb584e74e",
+          "type": "basic.info",
+          "data": {
+            "info": "Los ojos de Franky (GP0 y GP7) parpadean a 4Hz.",
+            "readonly": true
+          },
+          "position": {
+            "x": 368,
+            "y": 16
+          },
+          "size": {
+            "width": 384,
+            "height": 48
+          }
+        },
+        {
+          "id": "5d961b7c-3140-41f1-a681-b745b3b23c4e",
+          "type": "basic.info",
+          "data": {
+            "info": "Franky se mueve a izquieda y derecha con un periodo \ntotal de 4 segundos (2 segundos en cada lado).",
+            "readonly": true
+          },
+          "position": {
+            "x": 352,
+            "y": 168
+          },
+          "size": {
+            "width": 432,
+            "height": 48
           }
         }
       ],
@@ -252,7 +284,7 @@
           "vertices": [
             {
               "x": 360,
-              "y": 360
+              "y": 392
             }
           ]
         },
@@ -311,7 +343,7 @@
     "state": {
       "pan": {
         "x": 88,
-        "y": 45.5
+        "y": 41.5
       },
       "zoom": 1
     }
