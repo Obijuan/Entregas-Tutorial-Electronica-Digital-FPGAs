@@ -201,7 +201,7 @@
           "id": "eb40e825-dd73-489c-b3db-251cb584e74e",
           "type": "basic.info",
           "data": {
-            "info": "Los ojos de Franky (GP0 y GP7) parpadean a 4Hz.",
+            "info": "<b><u>Los ojos de Franky</u></b> (GP0 y GP7) parpadean a 4Hz.",
             "readonly": true
           },
           "position": {
@@ -217,7 +217,7 @@
           "id": "5d961b7c-3140-41f1-a681-b745b3b23c4e",
           "type": "basic.info",
           "data": {
-            "info": "Franky se mueve a izquieda y derecha con un periodo \ntotal de 4 segundos (2 segundos en cada lado).",
+            "info": "<b><u>Franky</u></b> se mueve a izquieda y derecha con un periodo \ntotal de 4 segundos (2 segundos en cada lado).",
             "readonly": true
           },
           "position": {
