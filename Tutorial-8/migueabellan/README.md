@@ -31,5 +31,4 @@ dividirlos en dos grupos y hacer que parpadeen alternativamente a 1Hz
 ***
 
 <blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">¡Tutorial 8!<br>Mi Franky con Post-it como buen emprendedor ??<a href="https://twitter.com/Obijuan_cube?ref_src=twsrc%5Etfw">@Obijuan_cube</a> <a href="https://twitter.com/hashtag/FGPAwars?src=hash&amp;ref_src=twsrc%5Etfw">#FGPAwars</a> <a href="https://t.co/GrMZhgMDII">pic.twitter.com/GrMZhgMDII</a></p>&mdash; Migue (@migueabellan) <a href="https://twitter.com/migueabellan/status/957611566228221952?ref_src=twsrc%5Etfw">28 de enero de 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
