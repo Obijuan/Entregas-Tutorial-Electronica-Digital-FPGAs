@@ -51,22 +51,42 @@
           }
         },
         {
-          "id": "cde952c0-f818-406c-9b1b-c2c6544433ec",
+          "id": "b7db6711-3bca-46e3-8fbb-5d08f103b941",
           "type": "basic.output",
           "data": {
-            "name": "LED",
+            "name": "Servo",
             "pins": [
               {
                 "index": "0",
-                "name": "LED4",
-                "value": "99"
+                "name": "D1",
+                "value": "118"
               }
             ],
             "virtual": false
           },
           "position": {
             "x": 808,
-            "y": 344
+            "y": 352
+          }
+        },
+        {
+          "id": "d661ad96-013b-461a-8ad9-5e04da83f169",
+          "type": "basic.input",
+          "data": {
+            "name": "Pulsador",
+            "pins": [
+              {
+                "index": "0",
+                "name": "SW2",
+                "value": "11"
+              }
+            ],
+            "virtual": false,
+            "clock": false
+          },
+          "position": {
+            "x": 304,
+            "y": 368
           }
         },
         {
@@ -75,6 +95,18 @@
           "position": {
             "x": 552,
             "y": 240
+          },
+          "size": {
+            "width": 96,
+            "height": 64
+          }
+        },
+        {
+          "id": "96ac2187-c3a9-4906-a343-ea2be4b18449",
+          "type": "8b3f3c9399e26875a53540e6d8b502e3e68a45b9",
+          "position": {
+            "x": 552,
+            "y": 352
           },
           "size": {
             "width": 96,
@@ -105,11 +137,21 @@
         },
         {
           "source": {
-            "block": "1d160d2e-cabf-40b8-a9e9-010ce3f34894",
+            "block": "d661ad96-013b-461a-8ad9-5e04da83f169",
+            "port": "out"
+          },
+          "target": {
+            "block": "96ac2187-c3a9-4906-a343-ea2be4b18449",
+            "port": "41328a7d-0a4d-4fd6-84c7-e20091fc73ce"
+          }
+        },
+        {
+          "source": {
+            "block": "96ac2187-c3a9-4906-a343-ea2be4b18449",
             "port": "52f2f09c-75c4-49b9-bb9c-20000df9e5cc"
           },
           "target": {
-            "block": "cde952c0-f818-406c-9b1b-c2c6544433ec",
+            "block": "b7db6711-3bca-46e3-8fbb-5d08f103b941",
             "port": "in"
           }
         }
@@ -118,7 +160,7 @@
     "state": {
       "pan": {
         "x": 36,
-        "y": 1.5
+        "y": -2.5
       },
       "zoom": 1
     }
