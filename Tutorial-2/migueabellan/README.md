@@ -6,6 +6,8 @@
 
 * **Ejercicio 3**: Enviar los 3 pantallazos anteriores al [repositorio de entregas del Github](https://github.com/Obijuan/Entregas-Tutorial-Electronica-Digital-FPGAs/tree/master/Tutorial-2), en el directorio **Tutorial-2** y la carpeta con vuestro nombre. Valor: **3 BitPoints** (Uno por cada pantallazo)
 
+* **Ejercicio 4**: (Enviado por twitter: Todos los niveles del circuit scrable superados
+
 ***
 
 ![Ejercicio 1](Ejercicio-1.png)
