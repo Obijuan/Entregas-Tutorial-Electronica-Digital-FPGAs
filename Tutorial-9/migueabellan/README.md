@@ -33,3 +33,4 @@ dos ojos de FRANKY al apretar un pulsador, y que se apaguen al soltarlo
 
 ***
 
+<blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">¡Tutorial 9! Pulsadores y Entradas<a href="https://twitter.com/Obijuan_cube?ref_src=twsrc%5Etfw">@Obijuan_cube</a> <a href="https://twitter.com/hashtag/FPGAwars?src=hash&amp;ref_src=twsrc%5Etfw">#FPGAwars</a> <a href="https://t.co/hfMdVBfU7V">pic.twitter.com/hfMdVBfU7V</a></p>&mdash; Migue (@migueabellan) <a href="https://twitter.com/migueabellan/status/960163609312718848?ref_src=twsrc%5Etfw">4 de febrero de 2018</a></blockquote>
