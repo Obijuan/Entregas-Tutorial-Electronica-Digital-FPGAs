@@ -35,3 +35,4 @@ dos pulsadores, y montar un mini-pinball
 
 ***
 
+<blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">Tutorial 10 de Electrónica Digital con FPGAs libres <a href="https://twitter.com/hashtag/FPGAwars?src=hash&amp;ref_src=twsrc%5Etfw">#FPGAwars</a>  <a href="https://twitter.com/Obijuan_cube?ref_src=twsrc%5Etfw">@Obijuan_cube</a> <a href="https://t.co/pkRAjxHFDu">pic.twitter.com/pkRAjxHFDu</a></p>&mdash; Migue (@migueabellan) <a href="https://twitter.com/migueabellan/status/963380550114467840?ref_src=twsrc%5Etfw">13 de febrero de 2018</a></blockquote>
