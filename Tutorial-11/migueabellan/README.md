@@ -38,3 +38,4 @@ posición deben permanecer encendidos
 
 ***
 
+<blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">¡Tutorial 11 - 4!<br>Intento de LED RGB (Cátodo Común) y <a href="https://twitter.com/hashtag/FPGA?src=hash&amp;ref_src=twsrc%5Etfw">#FPGA</a> ... Sé que <a href="https://twitter.com/Obijuan_cube?ref_src=twsrc%5Etfw">@Obijuan_cube</a> me enseñará a construirlo algún día ??<a href="https://t.co/DaNBZgPL6C">https://t.co/DaNBZgPL6C</a> <a href="https://t.co/XtjoP4w9nh">pic.twitter.com/XtjoP4w9nh</a></p>&mdash; Migue (@migueabellan) <a href="https://twitter.com/migueabellan/status/964092757181648896?ref_src=twsrc%5Etfw">15 de febrero de 2018</a></blockquote>
