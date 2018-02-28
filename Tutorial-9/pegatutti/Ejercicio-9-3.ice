@@ -12,26 +12,26 @@
     "graph": {
       "blocks": [
         {
-          "id": "3247bf34-9974-40dc-954c-516b98cfba65",
+          "id": "1b088cab-16e1-4c03-8b58-2074f5a969ce",
           "type": "basic.output",
           "data": {
             "name": "led",
             "pins": [
               {
                 "index": "0",
-                "name": "LED5",
-                "value": "101"
+                "name": "GP1",
+                "value": "38"
               }
             ],
             "virtual": false
           },
           "position": {
-            "x": 528,
-            "y": 16
+            "x": 440,
+            "y": 48
           }
         },
         {
-          "id": "2ff864cc-4fbb-4f8b-95fc-d69664983fd3",
+          "id": "13243741-1c40-4778-9cce-23ba221ee053",
           "type": "basic.input",
           "data": {
             "name": "boton",
@@ -46,19 +46,48 @@
             "clock": false
           },
           "position": {
-            "x": 216,
-            "y": 16
+            "x": 224,
+            "y": 104
+          }
+        },
+        {
+          "id": "1aae19ca-6ab4-4b0d-87d1-1879fc72b2d5",
+          "type": "basic.output",
+          "data": {
+            "name": "led",
+            "pins": [
+              {
+                "index": "0",
+                "name": "GP0",
+                "value": "37"
+              }
+            ],
+            "virtual": false
+          },
+          "position": {
+            "x": 440,
+            "y": 152
           }
         }
       ],
       "wires": [
         {
           "source": {
-            "block": "2ff864cc-4fbb-4f8b-95fc-d69664983fd3",
+            "block": "13243741-1c40-4778-9cce-23ba221ee053",
             "port": "out"
           },
           "target": {
-            "block": "3247bf34-9974-40dc-954c-516b98cfba65",
+            "block": "1b088cab-16e1-4c03-8b58-2074f5a969ce",
+            "port": "in"
+          }
+        },
+        {
+          "source": {
+            "block": "13243741-1c40-4778-9cce-23ba221ee053",
+            "port": "out"
+          },
+          "target": {
+            "block": "1aae19ca-6ab4-4b0d-87d1-1879fc72b2d5",
             "port": "in"
           }
         }
@@ -66,10 +95,10 @@
     },
     "state": {
       "pan": {
-        "x": 96,
-        "y": 214
+        "x": -49.7444,
+        "y": 224.9384
       },
-      "zoom": 1
+      "zoom": 1.9303
     }
   },
   "dependencies": {}
