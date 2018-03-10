@@ -12,45 +12,26 @@
     "graph": {
       "blocks": [
         {
-          "id": "a8166097-0b53-4fc8-b262-2fc63ead21d3",
+          "id": "345464e6-a692-489f-acb0-6076823ace8e",
           "type": "basic.output",
           "data": {
-            "name": "LED",
+            "name": "SERVO",
             "pins": [
               {
                 "index": "0",
-                "name": "LED7",
-                "value": "104"
+                "name": "D0",
+                "value": "119"
               }
             ],
             "virtual": false
           },
           "position": {
-            "x": 480,
-            "y": 8
+            "x": 512,
+            "y": 0
           }
         },
         {
-          "id": "ed0235f2-627c-460a-a906-dd39473f3249",
-          "type": "basic.output",
-          "data": {
-            "name": "LED",
-            "pins": [
-              {
-                "index": "0",
-                "name": "LED6",
-                "value": "102"
-              }
-            ],
-            "virtual": false
-          },
-          "position": {
-            "x": 480,
-            "y": 88
-          }
-        },
-        {
-          "id": "98595930-7561-46fb-90dd-41ff18397897",
+          "id": "2147aebd-da2e-4207-aba4-28949f139305",
           "type": "basic.input",
           "data": {
             "name": "Interruptor",
@@ -65,127 +46,12 @@
             "clock": false
           },
           "position": {
-            "x": 264,
-            "y": 136
+            "x": -80,
+            "y": 16
           }
         },
         {
-          "id": "71abb172-a5b5-445e-93fc-800f0136155b",
-          "type": "basic.output",
-          "data": {
-            "name": "LED",
-            "pins": [
-              {
-                "index": "0",
-                "name": "LED4",
-                "value": "99"
-              }
-            ],
-            "virtual": false
-          },
-          "position": {
-            "x": 480,
-            "y": 184
-          }
-        },
-        {
-          "id": "b45dddd9-d953-4f40-ba1e-aecfbc45e1cd",
-          "type": "basic.output",
-          "data": {
-            "name": "LED",
-            "pins": [
-              {
-                "index": "0",
-                "name": "LED3",
-                "value": "98"
-              }
-            ],
-            "virtual": false
-          },
-          "position": {
-            "x": 480,
-            "y": 264
-          }
-        },
-        {
-          "id": "5f5085ba-47f6-481c-927d-4c5db3e08e25",
-          "type": "basic.output",
-          "data": {
-            "name": "SERVO",
-            "pins": [
-              {
-                "index": "0",
-                "name": "D0",
-                "value": "119"
-              }
-            ],
-            "virtual": false
-          },
-          "position": {
-            "x": 1360,
-            "y": 344
-          }
-        },
-        {
-          "id": "bf3c0224-9c36-4ccb-b5a1-75049e2c7d10",
-          "type": "basic.input",
-          "data": {
-            "name": "Interruptor",
-            "pins": [
-              {
-                "index": "0",
-                "name": "D12",
-                "value": "143"
-              }
-            ],
-            "virtual": false,
-            "clock": false
-          },
-          "position": {
-            "x": 264,
-            "y": 344
-          }
-        },
-        {
-          "id": "88329416-acc8-4356-baa3-d31a1bddd410",
-          "type": "basic.output",
-          "data": {
-            "name": "LED",
-            "pins": [
-              {
-                "index": "0",
-                "name": "LED1",
-                "value": "96"
-              }
-            ],
-            "virtual": false
-          },
-          "position": {
-            "x": 480,
-            "y": 424
-          }
-        },
-        {
-          "id": "ad5e0ac5-46d2-4e9e-a449-4e27a8b86fb3",
-          "type": "basic.output",
-          "data": {
-            "name": "LED",
-            "pins": [
-              {
-                "index": "0",
-                "name": "LED0",
-                "value": "95"
-              }
-            ],
-            "virtual": false
-          },
-          "position": {
-            "x": 480,
-            "y": 504
-          }
-        },
-        {
-          "id": "da1903c0-20e6-4dc0-912b-048cad19a741",
+          "id": "f9a9ec87-f22f-490a-8d89-23a8752fb7a4",
           "type": "basic.output",
           "data": {
             "name": "LED",
@@ -199,56 +65,74 @@
             "virtual": false
           },
           "position": {
-            "x": 1360,
-            "y": 520
+            "x": 512,
+            "y": 96
           }
         },
         {
-          "id": "52038472-6c4f-48fa-a092-48f3911f553a",
-          "type": "basic.input",
-          "data": {
-            "name": "Interruptor",
-            "pins": [
-              {
-                "index": "0",
-                "name": "D11",
-                "value": "142"
-              }
-            ],
-            "virtual": false,
-            "clock": false
-          },
-          "position": {
-            "x": 264,
-            "y": 552
-          }
-        },
-        {
-          "id": "5c0f15d6-24cd-4304-8544-a0eab3367924",
+          "id": "9aa8aa74-45b1-4e99-b5fe-8851a35862f6",
           "type": "basic.input",
           "data": {
             "name": "Pulsador",
             "pins": [
               {
                 "index": "0",
-                "name": "DD0",
-                "value": "78"
+                "name": "D12",
+                "value": "143"
               }
             ],
             "virtual": false,
             "clock": false
           },
           "position": {
-            "x": 264,
-            "y": 648
+            "x": -80,
+            "y": 176
           }
         },
         {
-          "id": "444ea55e-4d88-4555-9370-6d560608636f",
-          "type": "b2090f68ef94fd3c5c0eaea93eb6ba7e80aff0b6",
+          "id": "32bd8acb-3814-4ca3-93fc-a24a2b9ead58",
+          "type": "basic.output",
+          "data": {
+            "name": "LED",
+            "pins": [
+              {
+                "index": "0",
+                "name": "GP5",
+                "value": "43"
+              }
+            ],
+            "virtual": false
+          },
           "position": {
-            "x": 904,
-            "y": 360
+            "x": 512,
+            "y": 176
+          }
+        },
+        {
+          "id": "a8957268-71fa-4277-84e3-df0c4a03ebb0",
+          "type": "basic.output",
+          "data": {
+            "name": "TONO",
+            "pins": [
+              {
+                "index": "0",
+                "name": "D7",
+                "value": "112"
+              }
+            ],
+            "virtual": false
+          },
+          "position": {
+            "x": 512,
+            "y": 264
+          }
+        },
+        {
+          "id": "0136d123-162a-4695-936d-577280a7e2b2",
+          "type": "8b3f3c9399e26875a53540e6d8b502e3e68a45b9",
+          "position": {
+            "x": 232,
+            "y": 0
           },
           "size": {
             "width": 96,
@@ -256,11 +140,11 @@
           }
         },
         {
-          "id": "18350a7b-d050-425c-8ead-3ac41f7892f4",
-          "type": "a963e489d4790d4a78332816c0e8a893d48bf1b2",
+          "id": "76f77015-9cb5-41d1-86f1-5cd08574e903",
+          "type": "b9bc8ea5fe3f7f2a9db1f3538054fbf9294b00d6",
           "position": {
-            "x": 1128,
-            "y": 344
+            "x": -80,
+            "y": 96
           },
           "size": {
             "width": 96,
@@ -268,75 +152,11 @@
           }
         },
         {
-          "id": "9dfedd9b-d9d3-4172-bd98-3b1111c6c709",
-          "type": "basic.info",
-          "data": {
-            "info": "El código se introduce por los interruptres. <B>El que abre la cerradura es \nel 101</B> (encendido el primero, apagado el segundo y encendido el tercero).",
-            "readonly": true
-          },
+          "id": "09bf3bb5-6641-40a2-8359-6f09cda1612d",
+          "type": "1f5fef74bcd5c779dbd8db88a7474331cedbf99b",
           "position": {
-            "x": 704,
-            "y": 16
-          },
-          "size": {
-            "width": 608,
-            "height": 48
-          }
-        },
-        {
-          "id": "b420efce-dc94-49b4-bbb1-e00ac9d084f4",
-          "type": "basic.info",
-          "data": {
-            "info": "Los LEDs muestran\nel estado de los\ntres interruptores.",
-            "readonly": true
-          },
-          "position": {
-            "x": 264,
-            "y": 24
-          },
-          "size": {
-            "width": 176,
-            "height": 64
-          }
-        },
-        {
-          "id": "dfd818d8-61de-4d9c-967a-95fe8e50531e",
-          "type": "basic.info",
-          "data": {
-            "info": "Esta señal se activa si\nel codigo es correcto. <B>\nEl int. 1 está encendido Y\nel int. 2 está apagado Y\nel int. 3 está encendido.</B>",
-            "readonly": true
-          },
-          "position": {
-            "x": 880,
-            "y": 56
-          },
-          "size": {
-            "width": 240,
-            "height": 96
-          }
-        },
-        {
-          "id": "0e946d29-324c-4dda-8d36-4255c485df8c",
-          "type": "basic.info",
-          "data": {
-            "info": "<B>Si el código es correcto\nY se aprieta el pulsador,</B>\nse activa el servo para abrir\nla cerradura.",
-            "readonly": true
-          },
-          "position": {
-            "x": 1176,
-            "y": 232
-          },
-          "size": {
-            "width": 256,
-            "height": 80
-          }
-        },
-        {
-          "id": "1b6b088d-b94f-4ee1-a7a1-28ef943fe7a4",
-          "type": "35f267d0df6ffcb7fc33753bc9df9cf083642cca",
-          "position": {
-            "x": 480,
-            "y": 344
+            "x": -80,
+            "y": 256
           },
           "size": {
             "width": 96,
@@ -344,412 +164,117 @@
           }
         },
         {
-          "id": "34484ff7-14c1-4cb3-97cf-5382fe1392c5",
-          "type": "basic.info",
-          "data": {
-            "info": "<B>Si el código NO es correcto Y \nse aprieta el pulsador, NO</B> se \nactiva el servo que abre la cerradura, \nademás se encenderá una luz roja \ndestellante como alarma, que sólo se \napagará cuando introduzcamos el \n<B>Código Correcto y apretemos el Pulsador.</B>",
-            "readonly": true
-          },
-          "position": {
-            "x": 1144,
-            "y": 616
-          },
-          "size": {
-            "width": 336,
-            "height": 144
-          }
-        },
-        {
-          "id": "ce3e445b-4537-42e9-bbe4-941e0b1cb98e",
-          "type": "55a415d59ec3636e9576dc132100906ca5ab815d",
-          "position": {
-            "x": 904,
-            "y": 520
-          },
-          "size": {
-            "width": 96,
-            "height": 64
-          }
-        },
-        {
-          "id": "bee9b08e-5925-4916-887a-bf66cfb77495",
+          "id": "427f9f6d-66ad-4ccc-a46a-774a6db090a6",
           "type": "3599124dc507008071b5008cf8461180929ce773",
           "position": {
-            "x": 1128,
-            "y": 504
+            "x": 232,
+            "y": 160
           },
           "size": {
             "width": 96,
             "height": 96
-          }
-        },
-        {
-          "id": "a412d0bd-4378-4700-9385-f49643c5cbcf",
-          "type": "3599124dc507008071b5008cf8461180929ce773",
-          "position": {
-            "x": 672,
-            "y": 328
-          },
-          "size": {
-            "width": 96,
-            "height": 96
-          }
-        },
-        {
-          "id": "99404594-3d3e-4a13-a1d9-1fdfcbdedca5",
-          "type": "35f267d0df6ffcb7fc33753bc9df9cf083642cca",
-          "position": {
-            "x": 904,
-            "y": 440
-          },
-          "size": {
-            "width": 96,
-            "height": 64
           }
         }
       ],
       "wires": [
         {
           "source": {
-            "block": "98595930-7561-46fb-90dd-41ff18397897",
+            "block": "2147aebd-da2e-4207-aba4-28949f139305",
             "port": "out"
           },
           "target": {
-            "block": "a8166097-0b53-4fc8-b262-2fc63ead21d3",
-            "port": "in"
-          },
-          "vertices": []
-        },
-        {
-          "source": {
-            "block": "52038472-6c4f-48fa-a092-48f3911f553a",
-            "port": "out"
-          },
-          "target": {
-            "block": "ad5e0ac5-46d2-4e9e-a449-4e27a8b86fb3",
-            "port": "in"
-          },
-          "vertices": []
-        },
-        {
-          "source": {
-            "block": "98595930-7561-46fb-90dd-41ff18397897",
-            "port": "out"
-          },
-          "target": {
-            "block": "ed0235f2-627c-460a-a906-dd39473f3249",
-            "port": "in"
-          }
-        },
-        {
-          "source": {
-            "block": "52038472-6c4f-48fa-a092-48f3911f553a",
-            "port": "out"
-          },
-          "target": {
-            "block": "88329416-acc8-4356-baa3-d31a1bddd410",
-            "port": "in"
-          }
-        },
-        {
-          "source": {
-            "block": "444ea55e-4d88-4555-9370-6d560608636f",
-            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
-          },
-          "target": {
-            "block": "18350a7b-d050-425c-8ead-3ac41f7892f4",
+            "block": "0136d123-162a-4695-936d-577280a7e2b2",
             "port": "41328a7d-0a4d-4fd6-84c7-e20091fc73ce"
-          },
-          "vertices": []
+          }
         },
         {
           "source": {
-            "block": "18350a7b-d050-425c-8ead-3ac41f7892f4",
+            "block": "0136d123-162a-4695-936d-577280a7e2b2",
             "port": "52f2f09c-75c4-49b9-bb9c-20000df9e5cc"
           },
           "target": {
-            "block": "5f5085ba-47f6-481c-927d-4c5db3e08e25",
+            "block": "345464e6-a692-489f-acb0-6076823ace8e",
             "port": "in"
           }
         },
         {
           "source": {
-            "block": "bf3c0224-9c36-4ccb-b5a1-75049e2c7d10",
-            "port": "out"
-          },
-          "target": {
-            "block": "1b6b088d-b94f-4ee1-a7a1-28ef943fe7a4",
-            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
-          }
-        },
-        {
-          "source": {
-            "block": "bf3c0224-9c36-4ccb-b5a1-75049e2c7d10",
-            "port": "out"
-          },
-          "target": {
-            "block": "b45dddd9-d953-4f40-ba1e-aecfbc45e1cd",
-            "port": "in"
-          }
-        },
-        {
-          "source": {
-            "block": "bf3c0224-9c36-4ccb-b5a1-75049e2c7d10",
-            "port": "out"
-          },
-          "target": {
-            "block": "71abb172-a5b5-445e-93fc-800f0136155b",
-            "port": "in"
-          }
-        },
-        {
-          "source": {
-            "block": "5c0f15d6-24cd-4304-8544-a0eab3367924",
-            "port": "out"
-          },
-          "target": {
-            "block": "444ea55e-4d88-4555-9370-6d560608636f",
-            "port": "97b51945-d716-4b6c-9db9-970d08541249"
-          },
-          "vertices": [
-            {
-              "x": 808,
-              "y": 504
-            }
-          ]
-        },
-        {
-          "source": {
-            "block": "ce3e445b-4537-42e9-bbe4-941e0b1cb98e",
+            "block": "76f77015-9cb5-41d1-86f1-5cd08574e903",
             "port": "70887b0b-826c-4150-a873-605b77da8272"
           },
           "target": {
-            "block": "bee9b08e-5925-4916-887a-bf66cfb77495",
-            "port": "69f1c59d-2334-4e6d-bfc9-d0f0add1c9d6"
+            "block": "427f9f6d-66ad-4ccc-a46a-774a6db090a6",
+            "port": "304094e9-1663-470c-927d-4347499aeb1c"
           }
         },
         {
           "source": {
-            "block": "5c0f15d6-24cd-4304-8544-a0eab3367924",
-            "port": "out"
+            "block": "09bf3bb5-6641-40a2-8359-6f09cda1612d",
+            "port": "70887b0b-826c-4150-a873-605b77da8272"
           },
           "target": {
-            "block": "bee9b08e-5925-4916-887a-bf66cfb77495",
+            "block": "427f9f6d-66ad-4ccc-a46a-774a6db090a6",
             "port": "c5709bfa-c610-485c-88d9-73768707c43c"
           }
         },
         {
           "source": {
-            "block": "bee9b08e-5925-4916-887a-bf66cfb77495",
+            "block": "427f9f6d-66ad-4ccc-a46a-774a6db090a6",
             "port": "0d1bb85f-89b4-49b8-bfb3-31163a218b90"
           },
           "target": {
-            "block": "da1903c0-20e6-4dc0-912b-048cad19a741",
+            "block": "f9a9ec87-f22f-490a-8d89-23a8752fb7a4",
             "port": "in"
           }
         },
         {
           "source": {
-            "block": "98595930-7561-46fb-90dd-41ff18397897",
-            "port": "out"
+            "block": "427f9f6d-66ad-4ccc-a46a-774a6db090a6",
+            "port": "0d1bb85f-89b4-49b8-bfb3-31163a218b90"
           },
           "target": {
-            "block": "a412d0bd-4378-4700-9385-f49643c5cbcf",
-            "port": "304094e9-1663-470c-927d-4347499aeb1c"
+            "block": "32bd8acb-3814-4ca3-93fc-a24a2b9ead58",
+            "port": "in"
           }
         },
         {
           "source": {
-            "block": "1b6b088d-b94f-4ee1-a7a1-28ef943fe7a4",
-            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
+            "block": "427f9f6d-66ad-4ccc-a46a-774a6db090a6",
+            "port": "0d1bb85f-89b4-49b8-bfb3-31163a218b90"
           },
           "target": {
-            "block": "a412d0bd-4378-4700-9385-f49643c5cbcf",
+            "block": "a8957268-71fa-4277-84e3-df0c4a03ebb0",
+            "port": "in"
+          }
+        },
+        {
+          "source": {
+            "block": "9aa8aa74-45b1-4e99-b5fe-8851a35862f6",
+            "port": "out"
+          },
+          "target": {
+            "block": "427f9f6d-66ad-4ccc-a46a-774a6db090a6",
             "port": "69f1c59d-2334-4e6d-bfc9-d0f0add1c9d6"
-          }
-        },
-        {
-          "source": {
-            "block": "52038472-6c4f-48fa-a092-48f3911f553a",
-            "port": "out"
-          },
-          "target": {
-            "block": "a412d0bd-4378-4700-9385-f49643c5cbcf",
-            "port": "c5709bfa-c610-485c-88d9-73768707c43c"
-          }
-        },
-        {
-          "source": {
-            "block": "a412d0bd-4378-4700-9385-f49643c5cbcf",
-            "port": "0d1bb85f-89b4-49b8-bfb3-31163a218b90"
-          },
-          "target": {
-            "block": "444ea55e-4d88-4555-9370-6d560608636f",
-            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
-          }
-        },
-        {
-          "source": {
-            "block": "a412d0bd-4378-4700-9385-f49643c5cbcf",
-            "port": "0d1bb85f-89b4-49b8-bfb3-31163a218b90"
-          },
-          "target": {
-            "block": "99404594-3d3e-4a13-a1d9-1fdfcbdedca5",
-            "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
-          },
-          "vertices": [
-            {
-              "x": 848,
-              "y": 440
-            }
-          ]
-        },
-        {
-          "source": {
-            "block": "99404594-3d3e-4a13-a1d9-1fdfcbdedca5",
-            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
-          },
-          "target": {
-            "block": "bee9b08e-5925-4916-887a-bf66cfb77495",
-            "port": "304094e9-1663-470c-927d-4347499aeb1c"
           }
         }
       ]
     },
     "state": {
       "pan": {
-        "x": -22.117,
-        "y": 33.9255
+        "x": 384,
+        "y": 161.5
       },
-      "zoom": 0.7593
+      "zoom": 1
     }
   },
   "dependencies": {
-    "b2090f68ef94fd3c5c0eaea93eb6ba7e80aff0b6": {
+    "8b3f3c9399e26875a53540e6d8b502e3e68a45b9": {
       "package": {
-        "name": "AND",
-        "version": "1.0.1",
-        "description": "Puerta AND",
-        "author": "Jesús Arroyo, Juan González",
-        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22336.09%22%20height=%22194.045%22%20version=%221%22%3E%3Cpath%20d=%22M174.656%20190.045H78.304V4h96.352s87.463%208.625%2087.463%2091.94c0%2083.311-87.463%2094.105-87.463%2094.105z%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M4.057%2045.668h74.018M4.057%20144.812h74.018m184.632-50.034h69.326%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:125%25%22%20x=%2292.894%22%20y=%22114.587%22%20font-weight=%22400%22%20font-size=%2258.054%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#00f%22%3E%3Ctspan%20x=%2292.894%22%20y=%22114.587%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20font-weight=%22700%22%3EAND%3C/tspan%3E%3C/text%3E%3C/svg%3E"
-      },
-      "design": {
-        "graph": {
-          "blocks": [
-            {
-              "id": "18c2ebc7-5152-439c-9b3f-851c59bac834",
-              "type": "basic.input",
-              "data": {
-                "name": ""
-              },
-              "position": {
-                "x": 64,
-                "y": 88
-              }
-            },
-            {
-              "id": "664caf9e-5f40-4df4-800a-b626af702e62",
-              "type": "basic.output",
-              "data": {
-                "name": ""
-              },
-              "position": {
-                "x": 784,
-                "y": 152
-              }
-            },
-            {
-              "id": "97b51945-d716-4b6c-9db9-970d08541249",
-              "type": "basic.input",
-              "data": {
-                "name": ""
-              },
-              "position": {
-                "x": 64,
-                "y": 224
-              }
-            },
-            {
-              "id": "00925b04-5004-4307-a737-fa4e97c8b6ab",
-              "type": "basic.code",
-              "data": {
-                "code": "//-- Puerta AND\n\n//-- module and (input wire a, input wire b,\n//--             output wire c);\n\nassign c = a & b;\n\n//-- endmodule",
-                "params": [],
-                "ports": {
-                  "in": [
-                    {
-                      "name": "a"
-                    },
-                    {
-                      "name": "b"
-                    }
-                  ],
-                  "out": [
-                    {
-                      "name": "c"
-                    }
-                  ]
-                }
-              },
-              "position": {
-                "x": 256,
-                "y": 48
-              },
-              "size": {
-                "width": 464,
-                "height": 272
-              }
-            }
-          ],
-          "wires": [
-            {
-              "source": {
-                "block": "18c2ebc7-5152-439c-9b3f-851c59bac834",
-                "port": "out"
-              },
-              "target": {
-                "block": "00925b04-5004-4307-a737-fa4e97c8b6ab",
-                "port": "a"
-              }
-            },
-            {
-              "source": {
-                "block": "97b51945-d716-4b6c-9db9-970d08541249",
-                "port": "out"
-              },
-              "target": {
-                "block": "00925b04-5004-4307-a737-fa4e97c8b6ab",
-                "port": "b"
-              }
-            },
-            {
-              "source": {
-                "block": "00925b04-5004-4307-a737-fa4e97c8b6ab",
-                "port": "c"
-              },
-              "target": {
-                "block": "664caf9e-5f40-4df4-800a-b626af702e62",
-                "port": "in"
-              }
-            }
-          ]
-        },
-        "state": {
-          "pan": {
-            "x": -22,
-            "y": 79.5
-          },
-          "zoom": 1
-        }
-      }
-    },
-    "a963e489d4790d4a78332816c0e8a893d48bf1b2": {
-      "package": {
-        "name": "ServoBit-90-Futaba3003",
+        "name": "ServoBit-90-Tower-Pro-SG90",
         "version": "0.1",
-        "description": "ServoBit para Futaba 3003. Controlador de 1 bit para mover un servo a 2 posiciones. El ángulo entre una posición y otra es de 90 grados",
+        "description": "ServoBit para micrservo TowerPro-SG90. Controlador de 1 bit para mover un servo a 2 posiciones. El ángulo entre una posición y otra es de 90 grados",
         "author": "Juan Gonzalez-Gomez y Jesus Arroyo",
-        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%22-252%20400.9%20278.16016%20175.19108%22%20width=%22278.16%22%20height=%22175.191%22%3E%3Cdefs%3E%3Cmarker%20id=%22a%22%20orient=%22auto%22%20overflow=%22visible%22%3E%3Cpath%20d=%22M5.231%202.42L-1.324.01%205.23-2.401C4.184-.978%204.19.969%205.231%202.42z%22%20fill=%22#00f%22%20fill-rule=%22evenodd%22%20stroke=%22#00f%22%20stroke-width=%22.375%22%20stroke-linejoin=%22round%22/%3E%3C/marker%3E%3Cmarker%20id=%22b%22%20orient=%22auto%22%20overflow=%22visible%22%3E%3Cpath%20d=%22M-5.231-2.42L1.324-.01-5.23%202.401c1.047-1.423%201.041-3.37%200-4.821z%22%20fill=%22#00f%22%20fill-rule=%22evenodd%22%20stroke=%22#00f%22%20stroke-width=%22.375%22%20stroke-linejoin=%22round%22/%3E%3C/marker%3E%3C/defs%3E%3Cpath%20d=%22M-218.782%20540.66v-1.407h-28.955a2.482%202.412%200%200%201-2.482-2.412v-67.936a2.482%202.412%200%200%201%202.482-2.412h28.955v-1.407a2.482%202.412%200%200%201%202.482-2.412h161.738a2.482%202.412%200%200%201%202.482%202.412v1.407h28.955a2.482%202.412%200%200%201%202.482%202.412v67.936a2.482%202.412%200%200%201-2.482%202.412H-52.08v1.407a2.482%202.412%200%200%201-2.482%202.412H-216.3a2.482%202.412%200%200%201-2.482-2.412%22%20fill=%22gray%22%20fill-rule=%22evenodd%22%20stroke=%22#191919%22%20stroke-width=%223.561%22/%3E%3Cellipse%20cy=%22-482.572%22%20cx=%22-236.569%22%20transform=%22scale(1%20-1)%22%20rx=%228.894%22%20ry=%228.643%22%20fill=%22#fff%22%20stroke=%22#191919%22%20stroke-width=%223.561%22/%3E%3Cellipse%20cy=%22-523.173%22%20cx=%22-236.569%22%20transform=%22scale(1%20-1)%22%20rx=%228.894%22%20ry=%228.643%22%20fill=%22#fff%22%20stroke=%22#191919%22%20stroke-width=%223.561%22/%3E%3Cellipse%20cy=%22-482.572%22%20cx=%22-34.293%22%20transform=%22scale(1%20-1)%22%20rx=%228.894%22%20ry=%228.643%22%20fill=%22#fff%22%20stroke=%22#191919%22%20stroke-width=%223.561%22/%3E%3Cellipse%20cy=%22-523.173%22%20cx=%22-34.293%22%20transform=%22scale(1%20-1)%22%20rx=%228.894%22%20ry=%228.643%22%20fill=%22#fff%22%20stroke=%22#191919%22%20stroke-width=%223.561%22/%3E%3Cg%20transform=%22matrix(4.13652%200%200%20-4.0199%20-135.431%20502.873)%22%20stroke-width=%221.184%22%3E%3Ccircle%20cx=%229.45%22%20r=%227.079%22%20fill=%22none%22%20stroke=%22#191919%22%20stroke-width=%22.873%22/%3E%3Ctitle%3EFusion009002001_cs001%3C/title%3E%3C/g%3E%3Cpath%20d=%22M-75.467%20483.966c-7.283-7.66-17.99-10.953-28.034-8.622-10.044%202.331-17.874%209.926-20.503%2019.887-2.629%209.96.35%2020.75%207.8%2028.248l81.49%2039.287z%22%20fill=%22#4d4d4d%22%20stroke=%22#191919%22%20stroke-width=%223.561%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M-75.343%20519.74c-7.283%207.66-17.99%2010.952-28.033%208.621-10.044-2.33-17.875-9.926-20.503-19.887-2.629-9.96.35-20.749%207.8-28.247l80.462-43.908z%22%20fill=%22none%22%20stroke=%22#191919%22%20stroke-width=%223.561%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%20stroke-dasharray=%223.56129469,7.1225893%22/%3E%3Cpath%20d=%22M-.062%20548.435a66.685%2073.886%200%200%201-24.216-52.98%2066.685%2073.886%200%200%201%2018.799-55.613%22%20transform=%22scale(-1%201)%22%20fill=%22none%22%20stroke=%22#00f%22%20stroke-width=%223.561%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%20marker-start=%22url(#a)%22%20marker-end=%22url(#b)%22/%3E%3Ctext%20style=%22line-height:125%25%22%20x=%22-30.206%22%20y=%22571.866%22%20font-weight=%22400%22%20font-size=%2262.323%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22red%22%3E%3Ctspan%20x=%22-30.206%22%20y=%22571.866%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20font-weight=%22700%22%20font-size=%2235.613%22%3E0%3C/tspan%3E%3C/text%3E%3Ctext%20style=%22line-height:125%25%22%20x=%22-27.576%22%20y=%22446.164%22%20font-weight=%22400%22%20font-size=%2262.323%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22red%22%3E%3Ctspan%20x=%22-27.576%22%20y=%22446.164%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20font-weight=%22700%22%20font-size=%2235.613%22%3E1%3C/tspan%3E%3C/text%3E%3Ctext%20style=%22line-height:125%25;text-align:center%22%20x=%22-172.438%22%20y=%22499.501%22%20font-weight=%22400%22%20font-size=%2235.279%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20text-anchor=%22middle%22%20fill=%22#fc0%22%3E%3Ctspan%20x=%22-172.438%22%20y=%22499.501%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold';text-align:center%22%20font-weight=%22700%22%20font-size=%2220.16%22%3EFutaba%3C/tspan%3E%3C/text%3E%3Ctext%20style=%22line-height:125%25;text-align:center%22%20x=%22-172.438%22%20y=%22522.333%22%20font-weight=%22400%22%20font-size=%2235.279%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20text-anchor=%22middle%22%20fill=%22#fc0%22%3E%3Ctspan%20x=%22-172.438%22%20y=%22522.333%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold';text-align:center%22%20font-weight=%22700%22%20font-size=%2220.16%22%3E3003%3C/tspan%3E%3C/text%3E%3Ctext%20style=%22line-height:125%25%22%20x=%22-179.795%22%20y=%22446.06%22%20font-weight=%22400%22%20font-size=%2262.323%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#00f%22%3E%3Ctspan%20x=%22-179.795%22%20y=%22446.06%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20font-weight=%22700%22%20font-size=%2235.613%22%3E90%3C/tspan%3E%3C/text%3E%3Ctext%20style=%22line-height:125%25%22%20x=%22-130.514%22%20y=%22426.301%22%20font-weight=%22400%22%20font-size=%2240.128%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#00f%22%3E%3Ctspan%20x=%22-130.514%22%20y=%22426.301%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20font-weight=%22700%22%20font-size=%2222.93%22%3E0%3C/tspan%3E%3C/text%3E%3C/svg%3E"
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%22-252%20400.9%20278.24787%20161.55007%22%20width=%22278.248%22%20height=%22161.55%22%3E%3Cdefs%3E%3Cmarker%20orient=%22auto%22%20id=%22a%22%20overflow=%22visible%22%3E%3Cpath%20d=%22M5.231%202.42L-1.324.01%205.23-2.401C4.184-.978%204.19.969%205.231%202.42z%22%20fill=%22#00f%22%20fill-rule=%22evenodd%22%20stroke=%22#00f%22%20stroke-width=%22.375%22%20stroke-linejoin=%22round%22/%3E%3C/marker%3E%3Cmarker%20orient=%22auto%22%20id=%22b%22%20overflow=%22visible%22%3E%3Cpath%20d=%22M-5.231-2.42L1.324-.01-5.23%202.401c1.047-1.423%201.041-3.37%200-4.821z%22%20fill=%22#00f%22%20fill-rule=%22evenodd%22%20stroke=%22#00f%22%20stroke-width=%22.375%22%20stroke-linejoin=%22round%22/%3E%3C/marker%3E%3C/defs%3E%3Cpath%20d=%22M-218.782%20532.277v-1.407h-28.955a2.482%202.412%200%200%201-2.482-2.412v-67.936a2.482%202.412%200%200%201%202.482-2.412h28.955v-1.407a2.482%202.412%200%200%201%202.482-2.412h161.738a2.482%202.412%200%200%201%202.482%202.412v1.407h28.955a2.482%202.412%200%200%201%202.482%202.412v67.936a2.482%202.412%200%200%201-2.482%202.412H-52.08v1.407a2.482%202.412%200%200%201-2.482%202.412H-216.3a2.482%202.412%200%200%201-2.482-2.412%22%20fill=%22gray%22%20fill-rule=%22evenodd%22%20stroke=%22#191919%22%20stroke-width=%223.561%22/%3E%3Cellipse%20cy=%22-474.19%22%20cx=%22-236.569%22%20transform=%22scale(1%20-1)%22%20rx=%228.894%22%20ry=%228.643%22%20fill=%22#fff%22%20stroke=%22#191919%22%20stroke-width=%223.561%22/%3E%3Cellipse%20cy=%22-514.791%22%20cx=%22-236.569%22%20transform=%22scale(1%20-1)%22%20rx=%228.894%22%20ry=%228.643%22%20fill=%22#fff%22%20stroke=%22#191919%22%20stroke-width=%223.561%22/%3E%3Cellipse%20cy=%22-474.19%22%20cx=%22-34.293%22%20transform=%22scale(1%20-1)%22%20rx=%228.894%22%20ry=%228.643%22%20fill=%22#fff%22%20stroke=%22#191919%22%20stroke-width=%223.561%22/%3E%3Cellipse%20cy=%22-514.791%22%20cx=%22-34.293%22%20transform=%22scale(1%20-1)%22%20rx=%228.894%22%20ry=%228.643%22%20fill=%22#fff%22%20stroke=%22#191919%22%20stroke-width=%223.561%22/%3E%3Cg%20transform=%22matrix(4.13652%200%200%20-4.0199%20-135.431%20494.49)%22%20stroke-width=%221.184%22%3E%3Ccircle%20cx=%229.45%22%20r=%227.079%22%20fill=%22none%22%20stroke=%22#191919%22%20stroke-width=%22.873%22/%3E%3Ctitle%3EFusion009002001_cs001%3C/title%3E%3C/g%3E%3Cpath%20d=%22M-75.467%20475.583c-7.283-7.66-17.99-10.953-28.034-8.622-10.044%202.331-17.874%209.927-20.503%2019.887-2.629%209.961.35%2020.75%207.8%2028.248l81.49%2039.287z%22%20fill=%22#4d4d4d%22%20stroke=%22#191919%22%20stroke-width=%223.561%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M-75.343%20511.357c-7.283%207.66-17.99%2010.953-28.033%208.622-10.044-2.331-17.875-9.927-20.503-19.887-2.629-9.961.35-20.75%207.8-28.248l80.462-43.907z%22%20fill=%22none%22%20stroke=%22#191919%22%20stroke-width=%223.561%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%20stroke-dasharray=%223.56129469,7.1225893%22/%3E%3Ctext%20style=%22line-height:125%25%22%20x=%22-27.9%22%20y=%22561.946%22%20font-weight=%22400%22%20font-size=%2262.323%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22red%22%3E%3Ctspan%20x=%22-27.9%22%20y=%22561.946%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20font-weight=%22700%22%20font-size=%2235.613%22%3E0%3C/tspan%3E%3C/text%3E%3Ctext%20style=%22line-height:125%25%22%20x=%22-27.576%22%20y=%22430.862%22%20font-weight=%22400%22%20font-size=%2262.323%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22red%22%3E%3Ctspan%20x=%22-27.576%22%20y=%22430.862%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20font-weight=%22700%22%20font-size=%2235.613%22%3E1%3C/tspan%3E%3C/text%3E%3Ctext%20style=%22line-height:125%25;text-align:center%22%20x=%22-174.36%22%20y=%22479.202%22%20font-weight=%22400%22%20font-size=%2235.279%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20text-anchor=%22middle%22%20fill=%22#fc0%22%3E%3Ctspan%20x=%22-174.36%22%20y=%22479.202%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold';text-align:center%22%20font-weight=%22700%22%20font-size=%2220.16%22%3ETower%3C/tspan%3E%3C/text%3E%3Ctext%20style=%22line-height:125%25;text-align:center%22%20x=%22-172.438%22%20y=%22522.407%22%20font-weight=%22400%22%20font-size=%2235.279%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20text-anchor=%22middle%22%20fill=%22#fc0%22%3E%3Ctspan%20x=%22-172.438%22%20y=%22522.407%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold';text-align:center%22%20font-weight=%22700%22%20font-size=%2220.16%22%3ESG-90%3C/tspan%3E%3C/text%3E%3Ctext%20style=%22line-height:125%25%22%20x=%22-179.795%22%20y=%22437.678%22%20font-weight=%22400%22%20font-size=%2262.323%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#00f%22%3E%3Ctspan%20x=%22-179.795%22%20y=%22437.678%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20font-weight=%22700%22%20font-size=%2235.613%22%3E90%3C/tspan%3E%3C/text%3E%3Ctext%20style=%22line-height:125%25%22%20x=%22-130.514%22%20y=%22417.919%22%20font-weight=%22400%22%20font-size=%2240.128%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#00f%22%3E%3Ctspan%20x=%22-130.514%22%20y=%22417.919%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20font-weight=%22700%22%20font-size=%2222.93%22%3E0%3C/tspan%3E%3C/text%3E%3Ctext%20style=%22line-height:125%25;text-align:center%22%20x=%22-174.36%22%20y=%22500.344%22%20font-weight=%22400%22%20font-size=%2235.279%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20text-anchor=%22middle%22%20fill=%22#fc0%22%3E%3Ctspan%20x=%22-174.36%22%20y=%22500.344%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold';text-align:center%22%20font-weight=%22700%22%20font-size=%2220.16%22%3EPro%3C/tspan%3E%3C/text%3E%3Cpath%20d=%22M-.15%20535.598a66.685%2073.886%200%200%201-24.215-52.98%2066.685%2073.886%200%200%201%2018.798-55.612%22%20transform=%22scale(-1%201)%22%20fill=%22none%22%20stroke=%22#00f%22%20stroke-width=%223.561%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%20marker-start=%22url(#a)%22%20marker-end=%22url(#b)%22/%3E%3C/svg%3E"
       },
       "design": {
         "graph": {
@@ -794,7 +319,7 @@
               "type": "basic.constant",
               "data": {
                 "name": "POS1",
-                "value": "8'd167",
+                "value": "8'd200",
                 "local": true
               },
               "position": {
@@ -807,7 +332,7 @@
               "type": "basic.constant",
               "data": {
                 "name": "POS0",
-                "value": "8'd82",
+                "value": "8'd100",
                 "local": true
               },
               "position": {
@@ -883,15 +408,15 @@
               "id": "b2c5df1d-1302-4d64-ae38-251d0e52dddb",
               "type": "basic.info",
               "data": {
-                "info": "<B>Servobit</B> para Servos Futaba 3003 o comaptibles\nLas dos posiciones están distanciadas 90 grados\n\n* Posicion 0: 45 grados\n* Posicion 1: 135 grados",
-                "readonly": false
+                "info": "<B>Servobit</B> para microservos TowerPro SG-90 o compatibles\nLas dos posiciones están distanciadas 90 grados\n\n* Posicion 0: 45 grados\n* Posicion 1: 135 grados",
+                "readonly": true
               },
               "position": {
                 "x": -80,
                 "y": 56
               },
               "size": {
-                "width": 448,
+                "width": 512,
                 "height": 96
               }
             },
@@ -1013,10 +538,10 @@
         },
         "state": {
           "pan": {
-            "x": 480.3051,
-            "y": -5.4576
+            "x": 453.7615,
+            "y": -3.5642
           },
-          "zoom": 0.947
+          "zoom": 0.9404
         }
       }
     },
@@ -3856,107 +3381,13 @@
         }
       }
     },
-    "35f267d0df6ffcb7fc33753bc9df9cf083642cca": {
+    "b9bc8ea5fe3f7f2a9db1f3538054fbf9294b00d6": {
       "package": {
-        "name": "NOT",
-        "version": "1.0.3",
-        "description": "Puerta NOT",
-        "author": "Jesús Arroyo, Juan González",
-        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22317.651%22%20height=%22194.058%22%20version=%221%22%3E%3Cpath%20d=%22M69.246%204l161.86%2093.027-161.86%2093.031V4z%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linejoin=%22round%22/%3E%3Cellipse%20cx=%22253.352%22%20cy=%2296.736%22%20rx=%2221.393%22%20ry=%2221.893%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M4.057%2097.49h65.262m205.796%200h38.48%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:125%25%22%20x=%2281.112%22%20y=%22111.734%22%20transform=%22scale(.99532%201.0047)%22%20font-weight=%22400%22%20font-size=%2249.675%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#00f%22%3E%3Ctspan%20x=%2281.112%22%20y=%22111.734%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20font-weight=%22700%22%3ENot%3C/tspan%3E%3C/text%3E%3C/svg%3E"
-      },
-      "design": {
-        "graph": {
-          "blocks": [
-            {
-              "id": "18c2ebc7-5152-439c-9b3f-851c59bac834",
-              "type": "basic.input",
-              "data": {
-                "name": ""
-              },
-              "position": {
-                "x": 64,
-                "y": 144
-              }
-            },
-            {
-              "id": "664caf9e-5f40-4df4-800a-b626af702e62",
-              "type": "basic.output",
-              "data": {
-                "name": ""
-              },
-              "position": {
-                "x": 752,
-                "y": 144
-              }
-            },
-            {
-              "id": "5365ed8c-e5db-4445-938f-8d689830ea5c",
-              "type": "basic.code",
-              "data": {
-                "code": "//-- Puerta NOT\n\n//-- module (input wire a, output wire c);\n\n\nassign c = ~a;\n\n\n//-- endmodule\n",
-                "params": [],
-                "ports": {
-                  "in": [
-                    {
-                      "name": "a"
-                    }
-                  ],
-                  "out": [
-                    {
-                      "name": "c"
-                    }
-                  ]
-                }
-              },
-              "position": {
-                "x": 256,
-                "y": 48
-              },
-              "size": {
-                "width": 400,
-                "height": 256
-              }
-            }
-          ],
-          "wires": [
-            {
-              "source": {
-                "block": "18c2ebc7-5152-439c-9b3f-851c59bac834",
-                "port": "out"
-              },
-              "target": {
-                "block": "5365ed8c-e5db-4445-938f-8d689830ea5c",
-                "port": "a"
-              }
-            },
-            {
-              "source": {
-                "block": "5365ed8c-e5db-4445-938f-8d689830ea5c",
-                "port": "c"
-              },
-              "target": {
-                "block": "664caf9e-5f40-4df4-800a-b626af702e62",
-                "port": "in"
-              }
-            }
-          ]
-        },
-        "state": {
-          "pan": {
-            "x": -6,
-            "y": 87.5
-          },
-          "zoom": 1
-        }
-      }
-    },
-    "55a415d59ec3636e9576dc132100906ca5ab815d": {
-      "package": {
-        "name": "Corazon_1Hz",
+        "name": "Corazon_10Hz",
         "version": "0.1",
-        "description": "Bombear 1 bit por segundo",
+        "description": "Bombear 10 bits por segundo",
         "author": "Juan Gonzalez-Gomez (obijuan)",
-        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22200.13%22%20height=%22156.592%22%20viewBox=%220%200%20187.62306%20146.80587%22%3E%3Cpath%20d=%22M78.589%20143.492c-2.574-4.428-6.565-8.765-14.127-15.349-4.096-3.566-6.588-5.547-20.776-16.507-11.12-8.592-16.667-13.358-23.097-19.846-6.426-6.488-10.203-11.656-13.443-18.393-2.069-4.303-3.49-8.449-4.376-12.756C1.647%2055.17%201.494%2053.316%201.5%2045.26c.008-10.573.357-12.332%203.828-19.385%202.58-5.239%204.54-7.997%208.62-12.141%203.963-4.022%206.535-5.85%2012.099-8.6%206.18-3.058%2010.651-3.86%2019.86-3.562%207.157.231%209.777.943%2015.45%204.208%208.93%205.138%2015.858%2013.387%2017.776%2021.161.314%201.272.637%202.313.72%202.313.082%200%20.804-1.487%201.606-3.305%202.727-6.18%205.26-9.95%209.284-13.828%2012.32-11.88%2031.744-14.027%2047.45-5.25%206.414%203.584%2011.633%208.802%2015.676%2015.675%203.184%205.41%204.812%2012.595%205.09%2022.464.401%2014.298-2.214%2024.207-9.175%2034.766-2.762%204.19-4.805%206.73-8.637%2010.73-6.183%206.458-11.758%2011.205-24.921%2021.216-8.306%206.317-13.23%2010.378-20.355%2016.8-5.71%205.143-14.557%2014.099-15.41%2015.596-.372.654-.709%201.189-.748%201.189-.039%200-.544-.816-1.124-1.814z%22%20fill=%22red%22%20stroke=%22#000%22%20stroke-width=%222.813%22/%3E%3Ctext%20y=%22136.277%22%20x=%22124.207%22%20style=%22line-height:125%25%22%20font-weight=%22400%22%20font-size=%2253.914%22%20letter-spacing=%220%22%20word-spacing=%220%22%20transform=%22scale(.99853%201.00147)%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20y=%22136.277%22%20x=%22124.207%22%20font-weight=%22700%22%20font-size=%2230.808%22%3E7Hz%3C/tspan%3E%3C/text%3E%3C/svg%3E"
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22212.963%22%20height=%22156.392%22%20viewBox=%220%200%20199.65334%20146.61829%22%3E%3Cpath%20d=%22M78.495%20143.399c-2.574-4.43-6.565-8.766-14.127-15.35-4.096-3.566-6.588-5.546-20.775-16.506-11.12-8.593-16.668-13.36-23.098-19.847C14.07%2085.208%2010.293%2080.04%207.052%2073.303%204.984%2069%203.562%2064.854%202.676%2060.547c-1.123-5.472-1.275-7.324-1.27-15.382.008-10.573.357-12.332%203.828-19.385%202.58-5.239%204.54-7.997%208.62-12.141%203.963-4.022%206.536-5.85%2012.1-8.6%206.18-3.057%2010.65-3.859%2019.86-3.562%207.157.232%209.776.943%2015.45%204.208%208.929%205.138%2015.858%2013.387%2017.776%2021.162.313%201.27.636%202.312.719%202.312.082%200%20.805-1.487%201.606-3.305%202.727-6.179%205.26-9.95%209.284-13.828%2012.32-11.88%2031.744-14.027%2047.45-5.25%206.414%203.584%2011.633%208.802%2015.676%2015.675%203.184%205.41%204.812%2012.595%205.09%2022.464.402%2014.298-2.214%2024.207-9.174%2034.766-2.763%204.19-4.806%206.73-8.638%2010.73-6.182%206.458-11.758%2011.205-24.92%2021.216-8.307%206.317-13.23%2010.378-20.355%2016.8-5.71%205.143-14.558%2014.1-15.41%2015.596-.372.655-.71%201.189-.749%201.189-.039%200-.544-.815-1.124-1.813z%22%20fill=%22red%22%20stroke=%22#000%22%20stroke-width=%222.813%22/%3E%3Ctext%20y=%22136.183%22%20x=%22114.834%22%20style=%22line-height:125%25%22%20font-weight=%22400%22%20font-size=%2253.914%22%20letter-spacing=%220%22%20word-spacing=%220%22%20transform=%22scale(.99853%201.00147)%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20y=%22136.183%22%20x=%22114.834%22%20font-weight=%22700%22%20font-size=%2230.808%22%3E10Hz%3C/tspan%3E%3C/text%3E%3C/svg%3E"
       },
       "design": {
         "graph": {
@@ -3988,7 +3419,7 @@
               "id": "7e864797-b165-408f-a9ce-2e71dc63f8b8",
               "type": "basic.code",
               "data": {
-                "code": "\n//-- Constante para dividir y obtener una frecuencia de 7Hz\nlocalparam M = 1714285;\n\n//-- Calcular el numero de bits para almacenar M\nlocalparam N = $clog2(M);\n\n//-- Registro del divisor\nreg [N-1:0] divcounter;\n\n//-- Temporal clock\nreg clk_t = 0;\n\n//-- Se usa un contador modulo M/2 para luego\n//-- pasarlo por un biestable T y dividir la frecuencia\n//-- entre 2, para que el ciclo de trabajo sea del 50%\nalways @(posedge clk)\n    if (divcounter == M/2) begin\n      clk_t <= 1;\n      divcounter = 0;\n    end \n    else begin\n      divcounter <=  divcounter + 1;\n      clk_t = 0;\n    end \n  \nreg clk_o = 0;  \n    \n//-- Biestable T para obtener ciclo de trabajo del 50%\nalways @(posedge clk)\n  if (clk_t)\n    clk_o <= ~clk_o;\n",
+                "code": "\n//-- Constante para dividir y obtener una frecuencia de 10Hz\nlocalparam M = 1200000;\n\n//-- Calcular el numero de bits para almacenar M\nlocalparam N = $clog2(M);\n\n//-- Registro del divisor\nreg [N-1:0] divcounter;\n\n//-- Temporal clock\nreg clk_t = 0;\n\n//-- Se usa un contador modulo M/2 para luego\n//-- pasarlo por un biestable T y dividir la frecuencia\n//-- entre 2, para que el ciclo de trabajo sea del 50%\nalways @(posedge clk)\n    if (divcounter == M/2) begin\n      clk_t <= 1;\n      divcounter = 0;\n    end \n    else begin\n      divcounter <=  divcounter + 1;\n      clk_t = 0;\n    end \n  \nreg clk_o = 0;  \n    \n//-- Biestable T para obtener ciclo de trabajo del 50%\nalways @(posedge clk)\n  if (clk_t)\n    clk_o <= ~clk_o;\n",
                 "params": [],
                 "ports": {
                   "in": [
@@ -4009,6 +3440,101 @@
               },
               "size": {
                 "width": 528,
+                "height": 528
+              }
+            }
+          ],
+          "wires": [
+            {
+              "source": {
+                "block": "7e864797-b165-408f-a9ce-2e71dc63f8b8",
+                "port": "clk_o"
+              },
+              "target": {
+                "block": "70887b0b-826c-4150-a873-605b77da8272",
+                "port": "in"
+              }
+            },
+            {
+              "source": {
+                "block": "4656865c-bcf1-4668-8e13-9221e32222d3",
+                "port": "out"
+              },
+              "target": {
+                "block": "7e864797-b165-408f-a9ce-2e71dc63f8b8",
+                "port": "clk"
+              }
+            }
+          ]
+        },
+        "state": {
+          "pan": {
+            "x": 301,
+            "y": 128.0455
+          },
+          "zoom": 0.8466
+        }
+      }
+    },
+    "1f5fef74bcd5c779dbd8db88a7474331cedbf99b": {
+      "package": {
+        "name": "Corazon_1KHz",
+        "version": "0.1",
+        "description": "Bombear 1000 bits por segundo",
+        "author": "Juan Gonzalez-Gomez (obijuan)",
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22215.59%22%20height=%22156.392%22%20viewBox=%220%200%20202.11681%20146.61832%22%3E%3Cpath%20d=%22M78.495%20143.399c-2.574-4.43-6.565-8.766-14.127-15.35-4.096-3.566-6.588-5.546-20.775-16.506-11.12-8.593-16.668-13.36-23.098-19.847C14.07%2085.208%2010.293%2080.04%207.052%2073.303%204.984%2069%203.562%2064.854%202.676%2060.547c-1.123-5.472-1.275-7.324-1.27-15.382.008-10.573.357-12.332%203.828-19.385%202.58-5.239%204.54-7.997%208.62-12.141%203.963-4.022%206.536-5.85%2012.1-8.6%206.18-3.057%2010.65-3.859%2019.86-3.562%207.157.232%209.776.943%2015.45%204.208%208.929%205.138%2015.858%2013.387%2017.776%2021.162.313%201.27.636%202.312.719%202.312.082%200%20.805-1.487%201.606-3.305%202.727-6.179%205.26-9.95%209.284-13.828%2012.32-11.88%2031.744-14.027%2047.45-5.25%206.414%203.584%2011.633%208.802%2015.676%2015.675%203.184%205.41%204.812%2012.595%205.09%2022.464.402%2014.298-2.214%2024.207-9.174%2034.766-2.763%204.191-4.806%206.73-8.638%2010.73-6.182%206.458-11.758%2011.205-24.92%2021.216-8.307%206.317-13.23%2010.378-20.355%2016.8-5.71%205.143-14.558%2014.1-15.41%2015.596-.372.655-.71%201.19-.749%201.19-.039%200-.544-.816-1.124-1.814z%22%20fill=%22red%22%20stroke=%22#000%22%20stroke-width=%222.813%22/%3E%3Ctext%20y=%22136.183%22%20x=%22114.834%22%20style=%22line-height:125%25%22%20font-weight=%22400%22%20font-size=%2253.914%22%20letter-spacing=%220%22%20word-spacing=%220%22%20transform=%22scale(.99853%201.00147)%22%20font-family=%22sans-serif%22%20fill=%22#00f%22%3E%3Ctspan%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20y=%22136.183%22%20x=%22114.834%22%20font-weight=%22700%22%20font-size=%2230.808%22%3E1KHz%3C/tspan%3E%3C/text%3E%3C/svg%3E"
+      },
+      "design": {
+        "graph": {
+          "blocks": [
+            {
+              "id": "70887b0b-826c-4150-a873-605b77da8272",
+              "type": "basic.output",
+              "data": {
+                "name": ""
+              },
+              "position": {
+                "x": 560,
+                "y": 128
+              }
+            },
+            {
+              "id": "4656865c-bcf1-4668-8e13-9221e32222d3",
+              "type": "basic.input",
+              "data": {
+                "name": "",
+                "clock": true
+              },
+              "position": {
+                "x": -304,
+                "y": 128
+              }
+            },
+            {
+              "id": "7e864797-b165-408f-a9ce-2e71dc63f8b8",
+              "type": "basic.code",
+              "data": {
+                "code": "\n//-- Constante para dividir y obtener una frecuencia de 1KHz\nlocalparam M = 12000;\n\n//-- Calcular el numero de bits para almacenar M\nlocalparam N = $clog2(M);\n\n//-- Registro del divisor\nreg [N-1:0] divcounter;\n\n//-- Temporal clock\nreg clk_t = 0;\n\n//-- Se usa un contador modulo M/2 para luego\n//-- pasarlo por un biestable T y dividir la frecuencia\n//-- entre 2, para que el ciclo de trabajo sea del 50%\nalways @(posedge clk)\n    if (divcounter == M/2) begin\n      clk_t <= 1;\n      divcounter = 0;\n    end \n    else begin\n      divcounter <=  divcounter + 1;\n      clk_t = 0;\n    end \n  \nreg clk_o = 0;  \n    \n//-- Biestable T para obtener ciclo de trabajo del 50%\nalways @(posedge clk)\n  if (clk_t)\n    clk_o <= ~clk_o;\n",
+                "params": [],
+                "ports": {
+                  "in": [
+                    {
+                      "name": "clk"
+                    }
+                  ],
+                  "out": [
+                    {
+                      "name": "clk_o"
+                    }
+                  ]
+                }
+              },
+              "position": {
+                "x": -104,
+                "y": -104
+              },
+              "size": {
+                "width": 576,
                 "height": 528
               }
             }
