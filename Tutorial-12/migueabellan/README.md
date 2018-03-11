@@ -30,3 +30,4 @@ Ver los detalles de los ejercicios y las **entregas** en el menú **Archivos/Ejem
 
 ***
 
+<blockquote class="twitter-tweet" data-lang="es"><p lang="ca" dir="ltr">¡Entrega tutorial 12!<a href="https://twitter.com/Obijuan_cube?ref_src=twsrc%5Etfw">@Obijuan_cube</a> <a href="https://twitter.com/hashtag/FPGAwars?src=hash&amp;ref_src=twsrc%5Etfw">#FPGAwars</a> <a href="https://t.co/eH6OWwlFJS">pic.twitter.com/eH6OWwlFJS</a></p>&mdash; Migue (@migueabellan) <a href="https://twitter.com/migueabellan/status/972901359472300038?ref_src=twsrc%5Etfw">11 de marzo de 2018</a></blockquote>
