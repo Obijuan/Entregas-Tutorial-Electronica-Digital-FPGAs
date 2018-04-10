@@ -34,3 +34,4 @@ en paralelo, cada uno conectado a un pulsador externo. Las notas que se emitirán
 
 ***
 
+<blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">¡Entrega tutorial 13!<br>La familia <a href="https://twitter.com/hashtag/PCBPrint?src=hash&amp;ref_src=twsrc%5Etfw">#PCBPrint</a> crece ... esto es un vicio ??<a href="https://twitter.com/Obijuan_cube?ref_src=twsrc%5Etfw">@Obijuan_cube</a> <a href="https://t.co/jpiWwRqdq6">pic.twitter.com/jpiWwRqdq6</a></p>&mdash; Migue (@migueabellan) <a href="https://twitter.com/migueabellan/status/983708758563057665?ref_src=twsrc%5Etfw">10 de abril de 2018</a></blockquote>
