@@ -26,7 +26,7 @@
             "virtual": false
           },
           "position": {
-            "x": 16,
+            "x": -32,
             "y": -8
           }
         },
@@ -58,14 +58,14 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D12",
-                "value": "143"
+                "name": "D6",
+                "value": "113"
               }
             ],
             "virtual": false
           },
           "position": {
-            "x": 16,
+            "x": -32,
             "y": 104
           }
         },
@@ -77,14 +77,14 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D11",
-                "value": "142"
+                "name": "D5",
+                "value": "114"
               }
             ],
             "virtual": false
           },
           "position": {
-            "x": 16,
+            "x": -32,
             "y": 184
           }
         },
@@ -116,14 +116,14 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D10",
-                "value": "141"
+                "name": "D9",
+                "value": "139"
               }
             ],
             "virtual": false
           },
           "position": {
-            "x": 16,
+            "x": -32,
             "y": 296
           }
         },
@@ -135,8 +135,8 @@
             "readonly": true
           },
           "position": {
-            "x": -520,
-            "y": -192
+            "x": -592,
+            "y": -336
           },
           "size": {
             "width": 896,
@@ -151,8 +151,8 @@
             "readonly": true
           },
           "position": {
-            "x": 392,
-            "y": -192
+            "x": 520,
+            "y": -328
           },
           "size": {
             "width": 688,
@@ -167,8 +167,8 @@
             "readonly": true
           },
           "position": {
-            "x": 392,
-            "y": -32
+            "x": 520,
+            "y": -168
           },
           "size": {
             "width": 624,
@@ -332,7 +332,7 @@
     "state": {
       "pan": {
         "x": 692,
-        "y": 410
+        "y": 390
       },
       "zoom": 1
     }
