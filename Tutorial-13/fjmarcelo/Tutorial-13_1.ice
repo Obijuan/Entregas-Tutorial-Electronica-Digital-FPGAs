@@ -26,7 +26,7 @@
             "virtual": false
           },
           "position": {
-            "x": 16,
+            "x": -32,
             "y": -8
           }
         },
@@ -58,15 +58,34 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D12",
-                "value": "143"
+                "name": "D6",
+                "value": "113"
               }
             ],
             "virtual": false
           },
           "position": {
-            "x": 16,
-            "y": 96
+            "x": -32,
+            "y": 104
+          }
+        },
+        {
+          "id": "40f1e19e-8f23-4680-a288-a3841a3a738a",
+          "type": "basic.output",
+          "data": {
+            "name": "LED",
+            "pins": [
+              {
+                "index": "0",
+                "name": "D5",
+                "value": "114"
+              }
+            ],
+            "virtual": false
+          },
+          "position": {
+            "x": -32,
+            "y": 184
           }
         },
         {
@@ -86,26 +105,7 @@
           },
           "position": {
             "x": -496,
-            "y": 176
-          }
-        },
-        {
-          "id": "40f1e19e-8f23-4680-a288-a3841a3a738a",
-          "type": "basic.output",
-          "data": {
-            "name": "LED",
-            "pins": [
-              {
-                "index": "0",
-                "name": "D11",
-                "value": "142"
-              }
-            ],
-            "virtual": false
-          },
-          "position": {
-            "x": 16,
-            "y": 176
+            "y": 216
           }
         },
         {
@@ -116,15 +116,15 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D10",
-                "value": "141"
+                "name": "D9",
+                "value": "139"
               }
             ],
             "virtual": false
           },
           "position": {
-            "x": 16,
-            "y": 256
+            "x": -32,
+            "y": 296
           }
         },
         {
@@ -135,8 +135,8 @@
             "readonly": true
           },
           "position": {
-            "x": -520,
-            "y": -192
+            "x": -592,
+            "y": -336
           },
           "size": {
             "width": 896,
@@ -151,8 +151,8 @@
             "readonly": true
           },
           "position": {
-            "x": 392,
-            "y": -184
+            "x": 520,
+            "y": -328
           },
           "size": {
             "width": 688,
@@ -167,8 +167,8 @@
             "readonly": true
           },
           "position": {
-            "x": 392,
-            "y": -32
+            "x": 520,
+            "y": -168
           },
           "size": {
             "width": 624,
@@ -180,7 +180,7 @@
           "type": "b9bc8ea5fe3f7f2a9db1f3538054fbf9294b00d6",
           "position": {
             "x": -496,
-            "y": 88
+            "y": 128
           },
           "size": {
             "width": 96,
@@ -192,7 +192,7 @@
           "type": "1f5fef74bcd5c779dbd8db88a7474331cedbf99b",
           "position": {
             "x": -496,
-            "y": 272
+            "y": 312
           },
           "size": {
             "width": 96,
@@ -215,8 +215,8 @@
           "id": "b206de0a-26c6-4043-9d89-bc2e77c3e1d8",
           "type": "b2090f68ef94fd3c5c0eaea93eb6ba7e80aff0b6",
           "position": {
-            "x": -304,
-            "y": 136
+            "x": -256,
+            "y": 144
           },
           "size": {
             "width": 96,
@@ -227,8 +227,8 @@
           "id": "5cae9f61-3a42-437d-9e48-7c7e03c47051",
           "type": "b2090f68ef94fd3c5c0eaea93eb6ba7e80aff0b6",
           "position": {
-            "x": -304,
-            "y": 256
+            "x": -256,
+            "y": 296
           },
           "size": {
             "width": 96,
@@ -331,8 +331,8 @@
     },
     "state": {
       "pan": {
-        "x": 568,
-        "y": 216
+        "x": 692,
+        "y": 390
       },
       "zoom": 1
     }
