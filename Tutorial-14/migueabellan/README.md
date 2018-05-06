@@ -30,3 +30,4 @@ modo rápido **medio segundo** (Freq. de 1Hz)
 
 ***
 
+<blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">¡Tutorial 14!<br>Entrega de los ejercicios <a href="https://twitter.com/hashtag/FPGAwars?src=hash&amp;ref_src=twsrc%5Etfw">#FPGAwars</a> <a href="https://twitter.com/hashtag/MUX?src=hash&amp;ref_src=twsrc%5Etfw">#MUX</a><a href="https://twitter.com/Obijuan_cube?ref_src=twsrc%5Etfw">@Obijuan_cube</a> <a href="https://t.co/yTaoH3axpo">pic.twitter.com/yTaoH3axpo</a></p>&mdash; Migue (@migueabellan) <a href="https://twitter.com/migueabellan/status/993139694165774336?ref_src=twsrc%5Etfw">6 de mayo de 2018</a></blockquote>
