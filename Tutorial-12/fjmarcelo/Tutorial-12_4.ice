@@ -219,7 +219,7 @@
           "id": "d1793c88-5a6b-4914-8a5f-21c3b386d514",
           "type": "basic.info",
           "data": {
-            "info": "**Ejercicio 11-4** Tema libre\n\nAlarma elemental con un sensor de movimiento **PIR** que\nal detectar la mano hace parpadear los ledes a 10 Hz.",
+            "info": "**Ejercicio 12-4** Tema libre\n\nAlarma elemental con un sensor de movimiento **PIR** que\nal detectar la mano hace parpadear los ledes a 10 Hz \n**siempre que el interruptor esté activado**.",
             "readonly": true
           },
           "position": {
@@ -405,10 +405,10 @@
     },
     "state": {
       "pan": {
-        "x": 714.1364,
-        "y": 190.9351
+        "x": 1328,
+        "y": 308
       },
-      "zoom": 0.7256
+      "zoom": 1
     }
   },
   "dependencies": {
