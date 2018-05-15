@@ -1,4 +1,6 @@
 # Tutorial 11
-En preparación.
+Realizados los ejercicios obligatorios.
 
 ## Tema libre
+
+Veremos qué se me ocurre...
