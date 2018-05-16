@@ -41,10 +41,6 @@ repite indefinidamente
 **Consejo**: En esta secuencia, el motor izquiero siempre está activado y girando en 
 el mismo sentido
 
-**Video** de cómo se mueve el robot con la solución de este ejercicio:
-
-[![Click to see the youtube video](http://img.youtube.com/vi/T1QYFw3_lvs/0.jpg)](https://www.youtube.com/watch?v=T1QYFw3_lvs)
-
 
 * **Ejercicio 4** (**5 Bitpoints**). Ejercicio Libre. Premiar la creatividad. **Entregar** por redes sociales o github: Pantallazos, enlaces, vídeos, etc...
 
