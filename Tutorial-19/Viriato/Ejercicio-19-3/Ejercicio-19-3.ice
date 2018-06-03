@@ -32,6 +32,25 @@
           }
         },
         {
+          "id": "028db1d2-823d-492e-b6fd-4968eb8b3d52",
+          "type": "basic.output",
+          "data": {
+            "name": "LED",
+            "pins": [
+              {
+                "index": "0",
+                "name": "LED3",
+                "value": "98"
+              }
+            ],
+            "virtual": false
+          },
+          "position": {
+            "x": -72,
+            "y": -192
+          }
+        },
+        {
           "id": "19d35cc1-eafe-447e-a135-79d7f8e8ca77",
           "type": "basic.input",
           "data": {
@@ -52,25 +71,6 @@
           }
         },
         {
-          "id": "028db1d2-823d-492e-b6fd-4968eb8b3d52",
-          "type": "basic.output",
-          "data": {
-            "name": "LED",
-            "pins": [
-              {
-                "index": "0",
-                "name": "LED3",
-                "value": "98"
-              }
-            ],
-            "virtual": false
-          },
-          "position": {
-            "x": -80,
-            "y": -152
-          }
-        },
-        {
           "id": "93cbc45a-ef1c-416c-baa8-b53926d7dc19",
           "type": "basic.input",
           "data": {
@@ -88,6 +88,25 @@
           "position": {
             "x": -344,
             "y": -128
+          }
+        },
+        {
+          "id": "17ccd76a-dc93-4150-b8f5-a4db94fa68d9",
+          "type": "basic.output",
+          "data": {
+            "name": "LED",
+            "pins": [
+              {
+                "index": "0",
+                "name": "GP7",
+                "value": "50"
+              }
+            ],
+            "virtual": false
+          },
+          "position": {
+            "x": -72,
+            "y": -112
           }
         },
         {
@@ -238,6 +257,16 @@
           },
           "target": {
             "block": "028db1d2-823d-492e-b6fd-4968eb8b3d52",
+            "port": "in"
+          }
+        },
+        {
+          "source": {
+            "block": "36a36470-768d-4238-a91b-6ff044871461",
+            "port": "a27d660d-90c7-4b16-9727-ea799771b851"
+          },
+          "target": {
+            "block": "17ccd76a-dc93-4150-b8f5-a4db94fa68d9",
             "port": "in"
           }
         }
