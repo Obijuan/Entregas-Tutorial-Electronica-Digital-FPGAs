@@ -15,12 +15,12 @@
           "id": "143afba0-efef-4690-95bc-81f63b2ff6cf",
           "type": "basic.input",
           "data": {
-            "name": "SW3",
+            "name": "SW1",
             "pins": [
               {
                 "index": "0",
-                "name": "D11",
-                "value": "142"
+                "name": "D13",
+                "value": "144"
               }
             ],
             "virtual": false,
@@ -74,12 +74,12 @@
           "id": "1026ea8e-c422-4299-843e-d596f2ffce76",
           "type": "basic.input",
           "data": {
-            "name": "SW1",
+            "name": "SW3",
             "pins": [
               {
                 "index": "0",
-                "name": "D13",
-                "value": "144"
+                "name": "D11",
+                "value": "142"
               }
             ],
             "virtual": false,
