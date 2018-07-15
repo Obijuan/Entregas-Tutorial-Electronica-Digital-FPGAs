@@ -1,0 +1,8 @@
+Tutorial 8, ejercicio 4 - Tema libre
+
+Se hace un bombeo alternativo en pares de ledes en distintas
+frecuencias tanto hacia los ledes internos (LDE0 - LED7) como
+a los externos (GPI0 - GPI7)
+
+Twitter:  @wernitzer
+Telegram: @wirnitzer
