@@ -39,8 +39,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D0",
-                "value": "119"
+                "name": "GP7",
+                "value": "50"
               }
             ],
             "virtual": false
