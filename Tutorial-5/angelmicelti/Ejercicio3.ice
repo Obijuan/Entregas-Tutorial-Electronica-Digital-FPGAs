@@ -16,7 +16,7 @@
           "type": "5d40d9a8fd72ceddd1728c3f47d626f89ba9a4ab",
           "position": {
             "x": 224,
-            "y": 96
+            "y": 72
           },
           "size": {
             "width": 96,
@@ -28,7 +28,7 @@
           "type": "2e5250ecc58bfd7a0600ceb60e78575036c1b6c3",
           "position": {
             "x": 416,
-            "y": 88
+            "y": 64
           },
           "size": {
             "width": 96,
@@ -40,7 +40,7 @@
           "type": "23bddabefe771db843d0e80b1d5b5c5a8ba2cdfb",
           "position": {
             "x": 568,
-            "y": 216
+            "y": 192
           },
           "size": {
             "width": 96,
@@ -52,7 +52,7 @@
           "type": "8450b0478ebab7fb7e86228070118db65aadabcc",
           "position": {
             "x": 672,
-            "y": 64
+            "y": 40
           },
           "size": {
             "width": 96,
@@ -64,7 +64,7 @@
           "type": "b8ea79bbff55bda252ba410f1d9d84175e318b5b",
           "position": {
             "x": 800,
-            "y": 184
+            "y": 160
           },
           "size": {
             "width": 96,
@@ -76,7 +76,7 @@
           "type": "708d2f5c9b8220f0fc71a0534f6cf6ad69a929ca",
           "position": {
             "x": 344,
-            "y": 336
+            "y": 312
           },
           "size": {
             "width": 96,
@@ -88,7 +88,7 @@
           "type": "6fe5dcdfa5a6948e52eea0d1e87124cf6f893dbd",
           "position": {
             "x": 576,
-            "y": 360
+            "y": 336
           },
           "size": {
             "width": 96,
@@ -100,11 +100,27 @@
           "type": "8dbad575aefe61815224f5bd464a98a04031af1f",
           "position": {
             "x": 800,
-            "y": 312
+            "y": 288
           },
           "size": {
             "width": 96,
             "height": 96
+          }
+        },
+        {
+          "id": "bc2d0272-deec-45e6-975e-b3788bafe8e3",
+          "type": "basic.info",
+          "data": {
+            "info": "<h1 align=\"center\"> EJERCICIO 3 DEL TUTORIAL 5 </h1>\n<h2 align=\"center\"> Colección del Taller del Makespace Madrid </h2>",
+            "readonly": true
+          },
+          "position": {
+            "x": 312,
+            "y": -120
+          },
+          "size": {
+            "width": 520,
+            "height": 72
           }
         }
       ],

@@ -16,7 +16,7 @@
           "type": "1eae2123c4e8002d2d975a0fcff9f01fbd91a6a9",
           "position": {
             "x": 144,
-            "y": 72
+            "y": 48
           },
           "size": {
             "width": 96,
@@ -28,7 +28,7 @@
           "type": "153df11a89a2ff5f90f196621a11a54b7b8175f4",
           "position": {
             "x": 144,
-            "y": 200
+            "y": 176
           },
           "size": {
             "width": 96,
@@ -40,7 +40,7 @@
           "type": "b8ea79bbff55bda252ba410f1d9d84175e318b5b",
           "position": {
             "x": 400,
-            "y": 56
+            "y": 32
           },
           "size": {
             "width": 96,
@@ -52,7 +52,7 @@
           "type": "3f116089b9a8edf9e850cd349e4467590774760d",
           "position": {
             "x": 400,
-            "y": 200
+            "y": 176
           },
           "size": {
             "width": 96,
@@ -64,7 +64,7 @@
           "type": "efbf8a627461cf1ecfb5c368201bbb97b1f689bb",
           "position": {
             "x": 784,
-            "y": 32
+            "y": 8
           },
           "size": {
             "width": 96,
@@ -76,7 +76,7 @@
           "type": "8c5d8b238a335255daad3b21ec5bab77132f809e",
           "position": {
             "x": 632,
-            "y": 32
+            "y": 8
           },
           "size": {
             "width": 96,
@@ -88,7 +88,7 @@
           "type": "92ce3047fdfb5f4ea4cc542cd36cd794c04f6481",
           "position": {
             "x": 728,
-            "y": 200
+            "y": 176
           },
           "size": {
             "width": 96,
@@ -100,11 +100,27 @@
           "type": "d948f3336682e1affec0ca5fbf733a0b1c8b93da",
           "position": {
             "x": 616,
-            "y": 328
+            "y": 304
           },
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "8d5fb3b7-affb-47b9-a3d9-b7ab2ee11590",
+          "type": "basic.info",
+          "data": {
+            "info": "<h1 align=\"center\"> EJERCICIO 2 DEL TUTORIAL 5 </h1>\n<h2 align=\"center\"> Colección del Centro Don Bosco </h2>",
+            "readonly": true
+          },
+          "position": {
+            "x": 216,
+            "y": -152
+          },
+          "size": {
+            "width": 560,
+            "height": 104
           }
         }
       ],
