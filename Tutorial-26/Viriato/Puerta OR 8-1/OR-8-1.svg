@@ -41,8 +41,8 @@
      id="namedview74"
      showgrid="false"
      inkscape:zoom="2.9213669"
-     inkscape:cx="191.8485"
-     inkscape:cy="96.359001"
+     inkscape:cx="130.23351"
+     inkscape:cy="77.745103"
      inkscape:window-x="0"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
@@ -82,14 +82,16 @@
   <flowRoot
      xml:space="preserve"
      id="flowRoot80"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#004e00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
      transform="matrix(5.4328564,0,0,4.9713627,-627.15122,-160.3932)"><flowRegion
-       id="flowRegion82"><rect
+       id="flowRegion82"
+       style="fill:#004e00;fill-opacity:1;"><rect
          id="rect84"
          width="92.080185"
          height="127.33765"
          x="135.21068"
-         y="31.149801" /></flowRegion><flowPara
+         y="31.149801"
+         style="fill:#004e00;fill-opacity:1;" /></flowRegion><flowPara
        id="flowPara86">8</flowPara></flowRoot>  <path
      style="fill:#a0a0a0;stroke:none;stroke-width:0.34230551px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 181.98098,84.0514 c -1.77526,-3.667205 -5.61108,-7.567595 -9.2243,-9.379603 -5.83023,-2.923813 -15.28191,-3.577808 -22.16866,-1.533925 -0.66306,0.196784 -0.85695,0.01447 -1.44595,-1.3596 -2.67202,-6.233576 -2.12149,-15.923708 1.22956,-21.641833 2.17059,-3.703839 6.54736,-7.275744 11.19503,-9.136336 5.70122,-2.282353 16.31153,-3.09728 23.29318,-1.789037 10.83785,2.030831 18.1494,8.165125 20.21638,16.961268 1.03612,4.409304 0.56939,11.363107 -1.03118,15.36332 l -0.56403,1.40965 h -4.75511 -4.75511 v 4.743906 4.743903 l -2.65287,1.040027 c -2.17351,0.852101 -7.16892,2.137468 -8.30699,2.137468 -0.15133,0 -0.61481,-0.701644 -1.02995,-1.559208 z"
