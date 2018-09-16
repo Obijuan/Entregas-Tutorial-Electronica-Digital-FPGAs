@@ -1,4 +1,4 @@
-# VideLog12 #FPGAwars sobre Multiplexores
+# VideoLog12 #FPGAwars sobre Multiplexores
 
 [![Click to see the youtube video](https://img.youtube.com/vi/qNmZ7bBAaXc/0.jpg)](https://www.youtube.com/watch?v=qNmZ7bBAaXc&feature=youtu.be)
 
