@@ -1,4 +1,4 @@
-# VideLog13 #FPGAwars Servos rotación continua
+# VideoLog13 #FPGAwars Servos rotación continua
 
 [![Click to see the youtube video](https://img.youtube.com/vi/yj6EgvZFiWs/0.jpg)](https://www.youtube.com/watch?v=yj6EgvZFiWs&feature=youtu.be)
 
