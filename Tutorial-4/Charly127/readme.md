@@ -1,4 +1,4 @@
-Ejercicios del Tutorial 4 del curso de FPGAs de la Academia Jedi
+**Ejercicios del Tutorial 4 del curso de FPGAs de la Academia Jedi**
 
 --------------------
 
