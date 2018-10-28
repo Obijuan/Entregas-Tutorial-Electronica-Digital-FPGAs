@@ -1,9 +1,9 @@
-Ejercicios del Tutorial 2 del curso de FPGAs de la Academia Jedi
+Ejercicios del Tutorial 3 del curso de FPGAs de la Academia Jedi
 
 --------------------
 
-* **[20180918] Tutorial 2 - ejercicio 1.jpg**: Icestudio instalado y sintetizado del ejemplo **01.LEDON**.
+* **[20181028] Tutorial 3 - ejercicio 1A.png**: Kicad instalado y esquemas de la fuente de alimentación de la placa Icezum Alhambra.
 
-* **[20181023] Tutorial 2 - ejercicio 2A.png**: Carga del ejemplo **01.LEDON**.
+* **[20181028] Tutorial 3 - ejercicio 1B.png**: Modelo 3D de la placa Icezum Alhambra.
 
-* **[20181024] Tutorial 2 - ejercicio 2B.jpg**: foto de la placa con el LED0 encendido
+* **[20181028] Tutorial 3 - Ejercicio 2.png**: Feecad instalado y pantallazo de un componente de la placa.
