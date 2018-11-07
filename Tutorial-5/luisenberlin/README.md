@@ -41,7 +41,7 @@ Represento en el Icestudio el mismo circuito que en el nivel 21 del Circuit Scra
 El [diseño en Icestudio es éste](./Tutorial-05_Ej4.ice).
 
 <center>
-<img src="./Tutorial-05_Ej4.png" alt="Ejercicio libre" width="400"/>
+<img src="./Tutorial-05_Ej4.png" alt="Ejercicio libre" width="600"/>
 </center>
 
 
