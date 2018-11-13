@@ -8,7 +8,7 @@ Aquí dejo los ejercicios del tutorial 6
 
 | Circuito de Icestudio | Vídeo del diseño |
 |--|--|
-|<img src="./Ejercicio-6-1_Icestudio.png" alt="Circuito de Icestudio" width="400"/> | <iframe width="400" src="https://www.youtube.com/embed/SzIujHGmAUc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+|<img src="./Ejercicio-6-1_Icestudio.png" alt="Circuito de Icestudio" width="400"/> | [![Vídeo del diseño](https://img.youtube.com/vi/embed/SzIujHGmAUc/0.jpg)](https://www.youtube.com/watch?v=embed/SzIujHGmAUc) |
 
 ---
 
@@ -16,7 +16,7 @@ Aquí dejo los ejercicios del tutorial 6
 
 | Circuito de Icestudio | Vídeo del diseño |
 |--|--|
-|<img src="./Ejercicio-6-2_Icestudio.png" alt="Circuito de Icestudio" width="400"/> | <iframe width="400" src="https://www.youtube.com/embed/qh1ZJPXWa6I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+|<img src="./Ejercicio-6-2_Icestudio.png" alt="Circuito de Icestudio" width="400"/> | [![Vídeo del diseño](https://img.youtube.com/vi/embed/qh1ZJPXWa6I/0.jpg)](https://www.youtube.com/watch?v=embed/qh1ZJPXWa6I) |
 
 ---
 
@@ -28,7 +28,7 @@ Aquí dejo los ejercicios del tutorial 6
 
 | Circuito de Icestudio | Vídeo del diseño |
 |--|--|
-|<img src="./Ejercicio-6-3_Icestudio.png" alt="Circuito de Icestudio" width="400"/> | <iframe width="400" src="https://www.youtube.com/embed/_c8NPiqXNv0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+|<img src="./Ejercicio-6-3_Icestudio.png" alt="Circuito de Icestudio" width="400"/> | [![Vídeo del diseño](https://img.youtube.com/vi/embed/_c8NPiqXNv0/0.jpg)](https://www.youtube.com/watch?v=embed/_c8NPiqXNv0) |
 
 
 ---
@@ -39,7 +39,7 @@ Lo que he hecho es que vayan parpadeando alternativamente unos leds de forma que
 
 | Circuito de Icestudio | Vídeo del diseño |
 |--|--|
-|<img src="./Ejercicio-6-4_Icestudio.png" alt="Circuito de Icestudio" width="400"/> | <iframe width="400" src="https://www.youtube.com/embed/SS4lAqacNZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+|<img src="./Ejercicio-6-4_Icestudio.png" alt="Circuito de Icestudio" width="400"/> | [![Vídeo del diseño](https://img.youtube.com/vi/embed/SS4lAqacNZI/0.jpg)](https://www.youtube.com/watch?v=embed/SS4lAqacNZI) |
 
 ---
 
