@@ -9,9 +9,9 @@ Aquí dejo los ejercicios del tutorial 7.
 
 | Circuito de Icestudio | Vídeo del diseño |
 |--|--|
-|<img src="./Ejercicio-7-1-Icestudio.png" alt="Circuito de Icestudio" width="400"/> | <img src="./Ejercicio-7-1.gif" alt="Vídeo" width="400"/> |
+|<img src="./Ejercicio-7-1-Icestudio.png" alt="Circuito de Icestudio" width="400"/> | <img src="./Ejercicio-7-1.gif" alt="Vídeo" width="400"/> [Vídeo del diseño en youtube](https://www.youtube.com/watch?v=embed/2S4m8v-yg-g)
+ |
 
-[![Vídeo del diseño](https://img.youtube.com/vi/2S4m8v-yg-g/0.jpg)](https://www.youtube.com/watch?v=embed/2S4m8v-yg-g)
 
 ---
 
@@ -20,7 +20,7 @@ Aquí dejo los ejercicios del tutorial 7.
 
 | Circuito de Icestudio | Vídeo del diseño |
 |--|--|
-|<img src="./Ejercicio-7-2-Icestudio.png" alt="Circuito de Icestudio" width="400"/> | [![Vídeo del diseño](https://img.youtube.com/vi/ZIAXUlZk9bg/0.jpg)](https://www.youtube.com/watch?v=embed/ZIAXUlZk9bg) |
+|<img src="./Ejercicio-7-2-Icestudio.png" alt="Circuito de Icestudio" width="400"/> | <img src="./Ejercicio-7-2.gif" alt="Vídeo" width="400"/> [Vídeo del diseño en youtube](https://www.youtube.com/watch?v=embed/ZIAXUlZk9bg) |
 
 ---
 
@@ -29,7 +29,7 @@ Aquí dejo los ejercicios del tutorial 7.
 
 | Circuito de Icestudio | Vídeo del diseño |
 |--|--|
-|<img src="./Ejercicio-7-3-Icestudio.png" alt="Circuito de Icestudio" width="400"/> | [![Vídeo del diseño](https://img.youtube.com/vi/6S9VhUvq6sY/0.jpg)](https://www.youtube.com/watch?v=embed/6S9VhUvq6sY) |
+|<img src="./Ejercicio-7-3-Icestudio.png" alt="Circuito de Icestudio" width="400"/> | <img src="./Ejercicio-7-3.gif" alt="Vídeo" width="400"/> [Vídeo del diseño en youtube](https://www.youtube.com/watch?v=embed/6S9VhUvq6sY) |
 
 ---
 
