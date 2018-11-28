@@ -9,7 +9,9 @@ Aquí dejo los ejercicios del tutorial 7.
 
 | Circuito de Icestudio | Vídeo del diseño |
 |--|--|
-|<img src="./Ejercicio-7-1-Icestudio.png" alt="Circuito de Icestudio" width="400"/> | [![Vídeo del diseño](https://img.youtube.com/vi/2S4m8v-yg-g/0.jpg)](https://www.youtube.com/watch?v=embed/2S4m8v-yg-g) |
+|<img src="./Ejercicio-7-1-Icestudio.png" alt="Circuito de Icestudio" width="400"/> | <img src="./Ejercicio-7-1.gif" alt="Vídeo" width="400"/> |
+
+[![Vídeo del diseño](https://img.youtube.com/vi/2S4m8v-yg-g/0.jpg)](https://www.youtube.com/watch?v=embed/2S4m8v-yg-g)
 
 ---
 
