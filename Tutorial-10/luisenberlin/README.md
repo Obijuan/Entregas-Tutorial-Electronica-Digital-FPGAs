@@ -39,12 +39,12 @@ He decidido realizar un soporte para un servo del tipo Emax ES08A. El soporte lo
 Para poder sacar el cable del servo, he hecho un agujero con un soldador, ya que se me olvidó dejar el agujero en el modelo. Algunas imágenes de cómo queda las dejo a continuación.
 
 <br/>
-| Fotos del soporte | Fotos del soporte |
-|--|--|
-| <img src="./Ejercicio-10-4_freecad.png" alt="Soporte de servo Emax es08A en FreeCAD" width="400"/> | <img src="./Ejercicio-10-4_foto1.jpg" alt="Foto del soporte" width="400"/> |
-| <img src="./Ejercicio-10-4_foto2.jpg" alt="Foto del soporte" width="400"/> | <img src="./Ejercicio-10-4_foto3.jpg" alt="Foto del soporte" width="400"/> |
-| <img src="./Ejercicio-10-4_foto4.jpg" alt="Foto del soporte" width="400"/> | <img src="./Ejercicio-10-4_foto5.jpg" alt="Foto del soporte" width="400"/> |
 
+| Fotos del soporte | Fotos del soporte |
+| -- | -- |
+|<img src="./Ejercicio-10-4_freecad.png" alt="Soporte de servo Emax es08A en FreeCAD" width="400"/> | <img src="./Ejercicio-10-4_foto5.jpg" alt="Foto del soporte" width="400"/>|
+|<img src="./Ejercicio-10-4_foto1.jpg" alt="Foto del soporte" width="400"/> | <img src="./Ejercicio-10-4_foto2.jpg" alt="Foto del soporte" width="400"/>|
+|<img src="./Ejercicio-10-4_foto3.jpg" alt="Foto del soporte" width="400"/> | <img src="./Ejercicio-10-4_foto4.jpg" alt="Foto del soporte" width="400"/>|
 
 <br/>
 
