@@ -33,7 +33,7 @@ Aquí dejo los ejercicios del tutorial 10.
 
 * **Ejercicio 4**: Ejercicio libre: Soporte para un servo.
 
-He decidido realizar un soporte para un servo del tipo Emax ES08A. El soporte lo he hecho en FreeCAD y [lo he dejado en esta carpeta](./Soporte_Servo_Emax-es08A.fcstd) (también he dejado [un fichero stl del soporte](./Soporte_Servo_Emax-es08A.stl)).
+He decidido realizar un soporte para un servo del tipo Emax ES08A. El soporte lo he hecho en FreeCAD y [lo he dejado en esta carpeta](./Soporte_Servo_Emax-es08A.fcstd) (también he dejado [un fichero stl del soporte](./Soporte-servo-emax-es08A.stl.stl)).
 
 <br/>
 Para poder sacar el cable del servo, he hecho un agujero con un soldador, ya que se me olvidó dejar el agujero en el modelo. Algunas imágenes de cómo queda las dejo a continuación.
