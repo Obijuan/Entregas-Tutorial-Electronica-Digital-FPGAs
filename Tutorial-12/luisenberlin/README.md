@@ -9,7 +9,7 @@ Aquí dejo los ejercicios del tutorial 12.
 
 | Circuito de Icestudio | Vídeo del diseño |
 |--|--|
-|<img src="./Ejercicio-12-1.png" alt="Circuito de Icestudio" width="400"/> | [![Vídeo del diseño](https://img.youtube.com/vi/p4Z6vNZqKQc/0.jpg)](https://www.youtube.com/watch?v=embed/p4Z6vNZqKQc) |
+|<img src="./Ejercicio-12-1.png" alt="Circuito de Icestudio" width="400"/> | [![Vídeo del diseño](https://img.youtube.com/vi/p4Z6vNZqKQc/0.jpg)](https://youtu.be/p4Z6vNZqKQc) |
 
 ---
 
@@ -18,7 +18,7 @@ Aquí dejo los ejercicios del tutorial 12.
 
 | Circuito de Icestudio | Vídeo del diseño |
 |--|--|
-|<img src="./Ejercicio-12-2.png" alt="Circuito de Icestudio" width="400"/> | [![Vídeo del diseño](https://img.youtube.com/vi/A1kNjUfAzzI/0.jpg)](https://www.youtube.com/watch?v=embed/A1kNjUfAzzI) |
+|<img src="./Ejercicio-12-2.png" alt="Circuito de Icestudio" width="400"/> | [![Vídeo del diseño](https://img.youtube.com/vi/A1kNjUfAzzI/0.jpg)](https://youtu.be/A1kNjUfAzzI) |
 
 ---
 
@@ -27,7 +27,7 @@ Aquí dejo los ejercicios del tutorial 12.
 
 | Circuito de Icestudio | Vídeo del diseño |
 |--|--|
-|<img src="./Ejercicio-12-3.png" alt="Circuito de Icestudio" width="400"/> | [![Vídeo del diseño](https://img.youtube.com/vi/c3qfrL7mCxU/0.jpg)](https://www.youtube.com/watch?v=embed/c3qfrL7mCxU) |
+|<img src="./Ejercicio-12-3.png" alt="Circuito de Icestudio" width="400"/> | [![Vídeo del diseño](https://img.youtube.com/vi/c3qfrL7mCxU/0.jpg)](https://youtu.be/c3qfrL7mCxU) |
 
 ---
 
@@ -38,7 +38,7 @@ Modifico la caja fuerte para que se abra con el código **001**. Además si se a
 
 | Circuito de Icestudio | Vídeo del diseño |
 |--|--|
-|<img src="./Ejercicio-12-4.png" alt="Circuito de Icestudio" width="400"/> | [![Vídeo del diseño](https://img.youtube.com/vi/mQVm3jVg49Q/0.jpg)](https://www.youtube.com/watch?v=embed/mQVm3jVg49Q) |
+|<img src="./Ejercicio-12-4.png" alt="Circuito de Icestudio" width="400"/> | [![Vídeo del diseño](https://img.youtube.com/vi/mQVm3jVg49Q/0.jpg)](https://youtu.be/mQVm3jVg49Q) |
 
 <br/>
 
