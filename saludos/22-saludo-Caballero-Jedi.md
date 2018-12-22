@@ -9,3 +9,5 @@ Ya eres capaz de realizar circuitos digitales de mediana complejidad, y estás l
 ![](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/raw/master/rangos/png/22-Caballero-Jedi.png)
 
 El **certificado** que acredita tu rango de Caballero Jedi se ha **expedido**. ¡Muchas gracias! :-)
+
+¡Y que las FPGAs libres te acompañen!
