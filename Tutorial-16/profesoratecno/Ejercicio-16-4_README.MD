@@ -1,6 +1,8 @@
 # VideoLog14 #FPGAwars Senror IR
 
-[![Click to see the youtube video](https://img.youtube.com/vi//XWEuQXl79wA/0.jpg)](https://youtu.be/XWEuQXl79wA&feature=youtu.be)
+[![Click to see the youtube video](https://img.youtube.com/vi/XWEuQXl79wA/0.jpg)](https://www.youtube.com/watch?v=XWEuQXl79wA&feature=youtu.be)
+
+https://youtu.be/XWEuQXl79wA
 
 Haz click en la imagen para ver el **vídeo en Youtube*
 
