@@ -1,0 +1,66 @@
+#include <Arduino.h>
+
+
+const int LED = 13;  //-- LED de Arduino
+const int CLK = 12;  //-- Pin de reloj
+const int DAT = 11;  //-- Pin de Datos
+const int CTRL = 10; //-- Pin de control
+const int DATI = 9;  //-- Pin de Datos
+
+
+
+
+
+byte old = 0xff;
+
+void fpga_write(int value) {
+ shiftOut(DAT, CLK, MSBFIRST, value);
+ digitalWrite(CTRL, HIGH);
+ digitalWrite(CTRL, LOW);
+}
+
+byte fpga_read() {
+byte c;
+  //-- Indicar a la FPGA que capture el dato
+  digitalWrite(CTRL, HIGH);
+  digitalWrite(CTRL, LOW);
+  //-- Recibir el dato
+  c =  shiftIn(DATI, CLK, MSBFIRST);
+  return c;
+}
+
+void setup() {
+  pinMode(LED, OUTPUT);
+  pinMode(CLK, OUTPUT);
+  pinMode(DAT, OUTPUT);
+  pinMode(DATI, INPUT);
+  pinMode(CTRL, OUTPUT);
+
+
+  digitalWrite(CTRL, LOW);
+  digitalWrite(CLK, LOW);
+  digitalWrite(LED, LOW);
+  Serial.begin(9600);
+  old = 0xff;
+}
+
+
+
+void loop() {
+
+    //-- Leer dato de la FPGA
+    byte dat;
+    char str[3];
+    char *chr;
+    dat = fpga_read();
+    dat=dat>>1;
+    //-- Si ha habido un cambio desde la última
+    //-- lectura, mostrarlo en la consola
+    if (dat != old) {
+      sprintf(str,"%03d",int(dat));
+      Serial.println(str);
+    }
+    chr=&str[2];
+    fpga_write(byte(atoi(chr)));
+    old = dat;
+}
