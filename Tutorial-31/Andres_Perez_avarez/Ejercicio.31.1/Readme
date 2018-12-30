@@ -5,6 +5,7 @@ Se crea proyecto en Icestudio que consta de 3 contadores encadenados, con cada p
 
 En el programa cargado en Arduino se calcula la velocidad de giro de acuerdo al valor de los contadores y se representa el valor calculado en una pantalla LCD.
 
+Se prepara esquema para probar la medida de velocidad de giro, se hace girar un servo a dos velocidades y se observa en el display el valor para cada caso.
 
 
 
