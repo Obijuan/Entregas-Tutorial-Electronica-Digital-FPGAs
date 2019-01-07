@@ -2,9 +2,9 @@
 
 [![Click to see the youtube video](https://img.youtube.com/vi/v0FrIy7EJ9E/0.jpg)](https://youtu.be/v0FrIy7EJ9E)
 
-https://youtu.be/v0FrIy7EJ9E
-
 Haz click en la imagen para ver el **vídeo en Youtube**
+
+https://youtu.be/v0FrIy7EJ9E
 
 0:00 Ejercicio 17.1: Barrera dos estados: automática (sensor IR) y manual.
 
