@@ -4,7 +4,7 @@
 
 Haz click en la imagen para ver el **vídeo en Youtube**
 
-https://youtu.be/v0FrIy7EJ9E
+Enlace: https://youtu.be/v0FrIy7EJ9E
 
 0:00 Ejercicio 17.1: Barrera dos estados: automática (sensor IR) y manual.
 
