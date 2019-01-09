@@ -8,7 +8,7 @@
     "image": ""
   },
   "design": {
-    "board": "icestick",
+    "board": "icezum",
     "graph": {
       "blocks": [
         {
@@ -19,8 +19,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "PMOD7",
-                "value": "87"
+                "name": "GP0",
+                "value": "37"
               }
             ],
             "virtual": false
@@ -38,8 +38,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "PMOD8",
-                "value": "88"
+                "name": "GP7",
+                "value": "50"
               }
             ],
             "virtual": false
@@ -87,10 +87,10 @@
     },
     "state": {
       "pan": {
-        "x": 54.5702,
-        "y": 43.6127
+        "x": 128,
+        "y": 65.5
       },
-      "zoom": 1.0248
+      "zoom": 1
     }
   },
   "dependencies": {
