@@ -1,3 +1,0 @@
-Algunas piezas de mejora para el IzeBot.
--	Rueda trasera con su soporte que se inserta en el marco para que el IzeBot no se frene al ir hacia atrás
--	Pletina delantera con su soporte que se inserta en el marco para poder añadir dispositivos (zumbador, leds, …)

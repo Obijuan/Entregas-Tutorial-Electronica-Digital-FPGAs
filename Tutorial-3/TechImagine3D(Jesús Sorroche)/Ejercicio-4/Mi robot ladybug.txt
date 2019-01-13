@@ -1,1 +1,0 @@
-Te ptresento a mi robot ladybug que fue diseñado para practicar con el arduino uno, tal vez lo imprementaré con la FPGA alhambra II, lleva pantalla lcd, bluetooth, sensor ultrasonido con servomotor, mando control remoto IR, motores DC y sensor siguelinea, espero que con el tiempo avanzaré para controlar con FPGA.
