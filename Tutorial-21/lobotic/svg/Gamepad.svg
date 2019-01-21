@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="81.264885mm"
+   height="37.41964mm"
+   viewBox="0 0 81.264885 37.41964"
+   version="1.1"
+   id="svg4053"
+   inkscape:version="0.92.4 (ca053d0, 2019-01-16)"
+   sodipodi:docname="Gamepad.svg">
+  <defs
+     id="defs4047">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.5 : 1"
+       inkscape:vp_y="0 : 999.99999 : 0"
+       inkscape:vp_z="210 : 148.5 : 1"
+       inkscape:persp3d-origin="105 : 98.999999 : 1"
+       id="perspective4125" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="275.84008"
+     inkscape:cy="-15.232529"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1299"
+     inkscape:window-height="713"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4050">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-56.885418,-144.29762)">
+    <rect
+       style="fill:#666666;stroke-width:0.24839376"
+       id="rect4055"
+       width="81.264885"
+       height="37.41964"
+       x="56.885418"
+       y="144.29762"
+       ry="4.7211413"
+       rx="5.1848545" />
+    <rect
+       style="fill:#0000ff;stroke-width:0.26458332"
+       id="rect4074"
+       width="78.619049"
+       height="34.017853"
+       x="58.283936"
+       y="146.18755"
+       ry="5.4711599" />
+    <rect
+       style="fill:#666666;stroke-width:0.25241023"
+       id="rect4074-9"
+       width="76.661972"
+       height="31.749994"
+       x="59.11549"
+       y="147.24591"
+       ry="5.1064157" />
+    <rect
+       style="fill:#800000;stroke-width:0.26458332"
+       id="rect4091"
+       width="8.8824406"
+       height="20.977678"
+       x="69.547623"
+       y="154.54074"
+       ry="0.28348505" />
+    <rect
+       style="fill:#800000;stroke-width:0.26458332"
+       id="rect4091-3"
+       width="8.8824406"
+       height="20.977678"
+       x="160.49388"
+       y="-84.383186"
+       ry="0.28348505"
+       transform="rotate(90)" />
+    <ellipse
+       style="fill:#800000;stroke-width:0.32564101"
+       id="path4108"
+       cx="111.38957"
+       cy="164.89146"
+       rx="6.0476193"
+       ry="6.28022" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.06713533px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.15167838"
+       x="58.270462"
+       y="205.33057"
+       id="text4162"
+       transform="scale(1.3547306,0.73815413)"><tspan
+         sodipodi:role="line"
+         id="tspan4160"
+         x="58.270462"
+         y="205.33057"
+         style="fill:#0000ff;stroke-width:0.15167838">Game Pad</tspan></text>
+    <ellipse
+       style="fill:#800000;stroke-width:0.32564101"
+       id="path4108-6"
+       cx="125.71487"
+       cy="164.89732"
+       rx="6.0476193"
+       ry="6.28022" />
+  </g>
+</svg>

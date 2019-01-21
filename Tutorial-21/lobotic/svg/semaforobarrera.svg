@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="52.751289mm"
+   height="51.182106mm"
+   viewBox="0 0 52.75129 51.182107"
+   version="1.1"
+   id="svg5429"
+   inkscape:version="0.92.4 (ca053d0, 2019-01-16)"
+   sodipodi:docname="semaforobarrera.svg">
+  <defs
+     id="defs5423" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="170.19303"
+     inkscape:cy="76.130661"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1299"
+     inkscape:window-height="713"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5426">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-53.44278,-130.6403)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.09574851"
+       id="rect5433"
+       width="48.361828"
+       height="7.7814527"
+       x="57.545975"
+       y="153.75108"
+       ry="0.10504362" />
+    <path
+       style="fill:#d40000;stroke:#000000;stroke-width:0.09044226px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 57.545976,153.75108 7.246506,7.97952 3.708349,-0.099 -6.902366,-7.88048 z"
+       id="path5435"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#d40000;stroke:#000000;stroke-width:0.09044226px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 64.962668,153.74909 7.246514,7.97952 3.708349,-0.099 -6.902373,-7.88048 z"
+       id="path5435-5-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#d40000;stroke:#000000;stroke-width:0.09044226px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 72.379377,153.7471 7.246507,7.97952 3.708352,-0.099 -6.90237,-7.88048 z"
+       id="path5435-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#d40000;stroke:#000000;stroke-width:0.09044226px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 79.79607,153.74511 7.246517,7.97952 3.708347,-0.099 -6.902372,-7.88049 z"
+       id="path5435-5-9-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#d40000;stroke:#000000;stroke-width:0.09044226px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 87.725049,153.75307 7.246508,7.97952 3.708351,-0.099 -6.902367,-7.88048 z"
+       id="path5435-8"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#d40000;stroke:#000000;stroke-width:0.09044226px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 95.141743,153.75108 7.246507,7.97952 3.70836,-0.099 -6.90238,-7.88048 z"
+       id="path5435-5-9-9"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.11462033"
+       id="rect5431"
+       width="5.3888369"
+       height="34.171379"
+       x="55.848206"
+       y="147.65103"
+       ry="0.12687528" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.28009403"
+       id="rect5537"
+       width="10.734226"
+       height="18.614353"
+       x="53.44278"
+       y="130.6403"
+       ry="0.14218704" />
+    <circle
+       style="fill:#00ff00;fill-opacity:1;stroke-width:0.32471588"
+       id="path5539"
+       cx="58.654537"
+       cy="144.13741"
+       r="3.6081386" />
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0.32471588"
+       id="path5539-7"
+       cx="58.788174"
+       cy="136.11932"
+       r="3.6081386" />
+  </g>
+</svg>
