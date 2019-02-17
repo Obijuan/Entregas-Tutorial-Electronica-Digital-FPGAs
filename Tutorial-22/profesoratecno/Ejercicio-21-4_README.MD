@@ -9,3 +9,6 @@ Haz click en la imagen para ver el **vídeo en Youtube**
 0:43 Ejercicio 22.2: Icebot San Fermín.
 
 5:44 Ejercicio 22.3: Icebot con mando.
+
+
+* Si pegamos los bloques directamente en la carpeta **blocks**
