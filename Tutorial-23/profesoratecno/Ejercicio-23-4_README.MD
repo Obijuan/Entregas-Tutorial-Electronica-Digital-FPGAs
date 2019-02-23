@@ -1,7 +1,7 @@
 # VideoLog21 #FPGAwars Mi primera colección
 
 [![Click to see the youtube video](https://img.youtube.com/vi/hAkx5emnCUw/0.jpg)](https://youtu.be/hAkx5emnCUw)
-https://youtu.be/hAkx5emnCUw
+
 Haz click en la imagen para ver el **vídeo en Youtube**
 
 0:00 Ejercicio 23.1: Colección con mis bloques.
