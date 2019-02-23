@@ -1,4 +1,4 @@
-# VideoLog22 #FPGAwars Mi primera colección
+# VideoLog22 #FPGAwars Display 7 segmentos
 
 [![Click to see the youtube video](https://img.youtube.com/vi/PEnnCVzrDYw/0.jpg)](https://youtu.be/PEnnCVzrDYw)
 
