@@ -1,7 +1,5 @@
 int ledPin = 13;
 int speakerPin = 11;
-int relojPin = 10;
-int controlPin = 9;
  
 #define c 261
 #define d 294
