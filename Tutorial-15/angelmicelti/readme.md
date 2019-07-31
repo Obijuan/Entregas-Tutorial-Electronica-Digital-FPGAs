@@ -1,6 +1,6 @@
 <h2>ENLACES PARA LOS VÍDEOS</h2>
 
-[Ejercicio 1](https://youtu.be/w_6sLh_iE90)
+[Ejercicio 1](https://youtu.be/CtyT4Qa-n2E)
 
 [Ejercicio 2](https://youtu.be/PoPEq05wQ7w)
 
