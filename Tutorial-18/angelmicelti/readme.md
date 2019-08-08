@@ -6,4 +6,4 @@
 
 [Ejercicio 3](https://youtu.be/sx9CqfkuqRg)
 
-[Ejercicio 4](https://youtu.be/cMmPpSEGGwA)
+[Ejercicio 4](https://youtu.be/xR1BOF2jhBM)
