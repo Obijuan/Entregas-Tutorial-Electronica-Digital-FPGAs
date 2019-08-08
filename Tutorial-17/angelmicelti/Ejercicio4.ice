@@ -113,7 +113,7 @@
           "id": "055f3237-9c10-46ee-849d-6bc23de3f120",
           "type": "basic.info",
           "data": {
-            "info": "<h1 align=\"center\">TUTORIAL 15 </h1>\n<h2 align=\"center\">EJERCICIO 4</h2>\n\n<h3 align=\"center\">PROBLEMA RESUELTO</h3>\n\n\n\n<h3 align=\"center\">Cierta máquina tiene dos interruptores (A y B) y un pulsador (C) para su puesta en marcha, la cual se producirá al cumplirse estas condiciones: </p>\n- A y B tienen que activarse conjuntamente para que la máquina funcione, independientemente de lo que se haga con el pulsador C </p>\n- Bastará pulsar C para que la máquina también funcione, independientemente del estado de A y B.</h3>\n\n<h3 align=\"center\">He incluido una señal acústica para complementar la indicación</h3>",
+            "info": "<h1 align=\"center\">TUTORIAL 17 </h1>\n<h2 align=\"center\">EJERCICIO 4</h2>\n\n<h3 align=\"center\">PROBLEMA RESUELTO</h3>\n\n\n\n<h3 align=\"center\">Cierta máquina tiene dos interruptores (A y B) y un pulsador (C) para su puesta en marcha, la cual se producirá al cumplirse estas condiciones: </p>\n- A y B tienen que activarse conjuntamente para que la máquina funcione, independientemente de lo que se haga con el pulsador C </p>\n- Bastará pulsar C para que la máquina también funcione, independientemente del estado de A y B.</h3>\n\n<h3 align=\"center\">He incluido una señal acústica para complementar la indicación</h3>",
             "readonly": true
           },
           "position": {
