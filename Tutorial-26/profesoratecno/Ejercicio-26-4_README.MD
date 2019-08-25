@@ -1,4 +1,4 @@
-# VideoLog25 #FPGAwars Contadores (Ejercicios)
+# VideoLog25 #FPGAwars Temporizadores (Ejercicios)
 
 [![Click to see the youtube video](https://img.youtube.com/vi/ynRHrHY8kM4/0.jpg)](https://youtu.be/ynRHrHY8kM4)
 
