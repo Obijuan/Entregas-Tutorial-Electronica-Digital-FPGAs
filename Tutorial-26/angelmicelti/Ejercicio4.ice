@@ -124,7 +124,7 @@
           "id": "055f3237-9c10-46ee-849d-6bc23de3f120",
           "type": "basic.info",
           "data": {
-            "info": "<h1 align=\"center\">TUTORIAL 25 </h1>\n<h2 align=\"center\">EJERCICIO 4 (LIBRE)</h2>\n\n<h3 align=\"center\"></h3>\n\nSIMULADOR DE UN INODORO CON DESCARGA AUTOMÁTICA Y TEMPORIZACIÓN\n\nEl usuario se aproxima al inodoro y, tras realizar sus necesidades,\nse retira.\nSólo cuando lo ha hecho, se produce la descarga de la bomba de agua.   \nSi, durante la descarga del agua, el usuario vuelve al inodoro, el flujo de agua se vuelve a detener.\n\nLa detección de presencia se realiza con dos sensores IR que deben ser activados simultáneamente para que se considere que hay una persona.  \n\nSe ha colocado un retardo de 2 segundos para el inicio de la descarga.\n\nLa duración de la descarga de agua está fijada en 5 segundos, al finalizar, reinicia el automatismo.",
+            "info": "<h1 align=\"center\">TUTORIAL 26 </h1>\n<h2 align=\"center\">EJERCICIO 4 (LIBRE)</h2>\n\n<h3 align=\"center\"></h3>\n\nSIMULADOR DE UN INODORO CON DESCARGA AUTOMÁTICA Y TEMPORIZACIÓN\n\nEl usuario se aproxima al inodoro y, tras realizar sus necesidades,\nse retira.\nSólo cuando lo ha hecho, se produce la descarga de la bomba de agua.   \nSi, durante la descarga del agua, el usuario vuelve al inodoro, el flujo de agua se vuelve a detener.\n\nLa detección de presencia se realiza con dos sensores IR que deben ser activados simultáneamente para que se considere que hay una persona.  \n\nSe ha colocado un retardo de 2 segundos para el inicio de la descarga.\n\nLa duración de la descarga de agua está fijada en 5 segundos, al finalizar, reinicia el automatismo.",
             "readonly": true
           },
           "position": {
