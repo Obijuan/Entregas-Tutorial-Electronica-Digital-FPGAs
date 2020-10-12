@@ -235,7 +235,7 @@
           "id": "83772c06-4ba4-4f2c-a90e-4b1571a77ffe",
           "type": "basic.info",
           "data": {
-            "info": "Tuturial 26. Ejercicio 4.- Durante 3 segundos el icebot gira a izquierda y durante otros 3 segundos avanza.  Este proceso es indefinido, pero se puede detener mediante el pulsador PARO.  El proceso se inicia mediente un pulsador MARCHA.",
+            "info": "Tuturial 26. Ejercicio 4.- Durante 3 segundos el icebot gira a derecha y durante otros 3 segundos avanza.  Este proceso es indefinido, pero se puede detener mediante el pulsador PARO.  El proceso se inicia mediente un pulsador MARCHA.",
             "readonly": true
           },
           "position": {
